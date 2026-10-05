@@ -1,5 +1,6 @@
 installer/.gradle/
 installer/local_sdk/
+installer/local.properties
 local_sdk/
 installer/build/
 installer/app/build/
@@ -15,3 +16,4 @@ release/*.apkm
 release/*.apks
 release/*.idsig
 *.log
+.tmpasset/

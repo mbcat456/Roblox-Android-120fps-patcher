@@ -124,4 +124,4 @@ The helper scripts are in `tools/`:
 - `ghidra_scripts/` and `ghidra-run-*.bat` - headless Ghidra extraction/decompilation
 
 All paths in this documentation set are relative to the workspace root
-`C:\Users\Marco\Downloads\Rev`.
+`<workspace>`.

@@ -1,10 +1,10 @@
 param(
-    [string]$SdkDir = "C:\Users\Marco\Downloads\Rev\release_repo\local_sdk",
+    [string]$SdkDir = (Join-Path $PSScriptRoot "..\local_sdk"),
     [string]$Key = "mod\keys\mod_release.jks",
     [string]$Alias = "modkey",
     [string]$StorePass = "modpass123",
     [string]$KeyPass = "modpass123",
-    [string]$PythonExe = "C:\Users\Marco\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe"
+    [string]$PythonExe = "python.exe"
 )
 
 $ErrorActionPreference = "Stop"

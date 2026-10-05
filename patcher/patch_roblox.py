@@ -121,7 +121,7 @@ def main() -> None:
     parser.add_argument("--output", default="patched_output")
     parser.add_argument(
         "--apksigner",
-        default=r"C:\Users\Marco\Android\Sdk\build-tools\36.0.0\apksigner.bat",
+        default="apksigner.bat",
     )
     parser.add_argument("--key", default="mod/keys/mod_release.jks")
     parser.add_argument("--alias", default="modkey")
