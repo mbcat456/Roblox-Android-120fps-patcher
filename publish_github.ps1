@@ -14,7 +14,10 @@ if ($LASTEXITCODE -ne 0) {
 
 git init
 git add .
-git -c user.name="Marco" -c user.email="marco@localhost" commit -m "Roblox 120fps patcher and APKM installer"
+git diff --cached --quiet
+if ($LASTEXITCODE -ne 0) {
+    git -c user.name="Marco" -c user.email="marco@localhost" commit -m "Roblox 120fps patcher and APKM installer"
+}
 
 gh repo create "$Owner/$Repo" --public --source . --push
 
