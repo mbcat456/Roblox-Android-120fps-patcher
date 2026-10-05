@@ -24,6 +24,8 @@ Version `2.741.1061`, versionCode `3212`.
 - `release/Roblox_2.741.1061_120fps_mod.apkm` - APKMirror Installer bundle
 - `release/Roblox_2.741.1061_120fps_mod.apks` - SAI bundle
 - `release/RobloxApkmInstaller.apk` - small loader that installs the bundle
+- `release/Roblox_2.741.1061_120fps_arm64.apk` - single arm64 install
+- `release/Roblox_2.741.1061_120fps_universal.apk` - single universal install
 - `release/base_mod_signed.apk` and `release/split_config.*.apk` - raw pieces
 
 The `.apkm` and `.apks` files are large and are intended for the GitHub
@@ -38,6 +40,9 @@ Release attachment rather than the Git repository.
 
 Alternatively, install `APKMirror Installer` or `SAI` and open the bundle
 with one of them.
+
+The single APKs are normal APK files that can be downloaded and installed
+directly through the Android package installer without a bundle loader.
 
 ## Build the installer APK
 
