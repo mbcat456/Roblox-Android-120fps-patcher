@@ -3,7 +3,8 @@ param(
     [string]$Key = "mod\keys\mod_release.jks",
     [string]$Alias = "modkey",
     [string]$StorePass = "modpass123",
-    [string]$KeyPass = "modpass123"
+    [string]$KeyPass = "modpass123",
+    [string]$PythonExe = "C:\Users\Marco\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe"
 )
 
 $ErrorActionPreference = "Stop"
@@ -23,8 +24,8 @@ New-Item -ItemType Directory -Force -Path $out | Out-Null
     --java "$out\gen" `
     --min-sdk-version 24 `
     --target-sdk-version 35 `
-    --version-code 1 `
-    --version-name 1.0 `
+    --version-code 2 `
+    --version-name 1.1 `
     -o "$out\app.unsigned.apk" `
     "$out\res.zip"
 
@@ -35,6 +36,10 @@ New-Item -ItemType Directory -Force -Path "$out\classes" | Out-Null
     -d "$out\classes" `
     "$out\gen\com\marco\robloxapkm\R.java" `
     "$src\java\com\marco\robloxapkm\MainActivity.java"
+$javacExit = $LASTEXITCODE
+if ($javacExit -ne 0 -and -not (Test-Path "$out\classes\com\marco\robloxapkm\MainActivity.class")) {
+    throw "javac failed and MainActivity.class was not produced"
+}
 
 New-Item -ItemType Directory -Force -Path "$out\dex" | Out-Null
 $classFiles = Get-ChildItem -Recurse -File "$out\classes" -Filter *.class |
@@ -42,7 +47,7 @@ $classFiles = Get-ChildItem -Recurse -File "$out\classes" -Filter *.class |
 & "$bt\d8.bat" --min-api 24 --output "$out\dex" $classFiles
 
 $env:PYTHONPATH = "tools\pylibs"
-& python.exe add_dex_to_apk.py `
+& $PythonExe installer\add_dex_to_apk.py `
     "$out\app.unsigned.apk" `
     "$out\dex\classes.dex" `
     "$out\app.with_dex.apk"

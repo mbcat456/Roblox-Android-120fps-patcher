@@ -37,6 +37,8 @@ public final class MainActivity extends Activity {
 
     private TextView statusView;
     private ProgressBar progressBar;
+    private Button permissionButton;
+    private Button chooseButton;
 
     private final BroadcastReceiver installComplete = new BroadcastReceiver() {
         @Override
@@ -63,10 +65,13 @@ public final class MainActivity extends Activity {
 
         statusView = findViewById(R.id.status);
         progressBar = findViewById(R.id.progress);
-        Button chooseButton = findViewById(R.id.choose);
+        permissionButton = findViewById(R.id.permission);
+        chooseButton = findViewById(R.id.choose);
 
         chooseButton.setOnClickListener(view -> openFilePicker());
+        permissionButton.setOnClickListener(view -> openInstallPermissionSettings());
         registerReceiver(installComplete, new IntentFilter(ACTION_INSTALL_COMPLETE));
+        updateInstallPermissionUi();
 
         Intent launchIntent = getIntent();
         if (Intent.ACTION_VIEW.equals(launchIntent.getAction())
@@ -81,13 +86,24 @@ public final class MainActivity extends Activity {
         super.onDestroy();
     }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        updateInstallPermissionUi();
+    }
+
+    private void updateInstallPermissionUi() {
+        boolean granted = getPackageManager().canRequestPackageInstalls();
+        permissionButton.setVisibility(granted ? View.GONE : View.VISIBLE);
+        chooseButton.setVisibility(granted ? View.VISIBLE : View.GONE);
+        if (!granted) {
+            statusView.setText(getString(R.string.permission_needed));
+        }
+    }
+
     private void openFilePicker() {
         if (!getPackageManager().canRequestPackageInstalls()) {
-            Intent permission = new Intent(
-                android.provider.Settings.ACTION_MANAGE_UNKNOWN_APP_SOURCES,
-                Uri.parse("package:" + getPackageName())
-            );
-            startActivityForResult(permission, REQUEST_UNKNOWN_APPS);
+            openInstallPermissionSettings();
             return;
         }
 
@@ -101,11 +117,23 @@ public final class MainActivity extends Activity {
         startActivityForResult(picker, REQUEST_PICK_BUNDLE);
     }
 
+    private void openInstallPermissionSettings() {
+        Intent permission = new Intent(
+            android.provider.Settings.ACTION_MANAGE_UNKNOWN_APP_SOURCES,
+            Uri.parse("package:" + getPackageName())
+        );
+        startActivityForResult(permission, REQUEST_UNKNOWN_APPS);
+    }
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == REQUEST_UNKNOWN_APPS) {
-            openFilePicker();
+            updateInstallPermissionUi();
+            if (getPackageManager().canRequestPackageInstalls()) {
+                statusView.setText(getString(R.string.permission_granted));
+                openFilePicker();
+            }
             return;
         }
         if (requestCode == REQUEST_PICK_BUNDLE

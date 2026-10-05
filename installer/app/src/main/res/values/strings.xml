@@ -2,6 +2,9 @@
 <resources>
     <string name="app_name">APKM Installer</string>
     <string name="ready">Choose a Roblox .apkm or .apks bundle.</string>
+    <string name="allow_install_permission">Allow installing apps</string>
+    <string name="permission_needed">Permission is needed to install APKs.</string>
+    <string name="permission_granted">Permission granted. Choose the bundle.</string>
     <string name="choose_bundle">Choose bundle</string>
     <string name="preparing">Extracting bundle...</string>
     <string name="install_prompt">Install permission prompt opened.</string>
