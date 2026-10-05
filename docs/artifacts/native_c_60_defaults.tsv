@@ -1,0 +1,6 @@
+arm64-v8a/libroblox/libroblox.so_decompiled/libroblox.so_part_0003.c:29053	GraphicsOptimizationModeFRMFrameRateTarget	DAT_06b75448 = 0x3c;
+arm64-v8a/libroblox/libroblox.so_decompiled/libroblox.so_part_0011.c:25829	PhysicsStepLimitMaxFPS	DAT_06d3f228 = 0x3c;
+armeabi-v7a/libroblox/libroblox.so_decompiled/libroblox.so_part_0131.c:648	GraphicsOptimizationModeFRMFrameRateTarget	DAT_04a58a30 = 0x3c;
+armeabi-v7a/libroblox/libroblox.so_decompiled/libroblox.so_part_0138.c:24384	PhysicsStepLimitMaxFPS	DAT_04b9c9bc = 0x3c;
+x86_64/libroblox/libroblox.so_decompiled/libroblox.so_part_0003.c:28914	GraphicsOptimizationModeFRMFrameRateTarget	DAT_0748e5c0 = 0x3c;
+x86_64/libroblox/libroblox.so_decompiled/libroblox.so_part_0010.c:24604	PhysicsStepLimitMaxFPS	_DAT_076577e0 = 0x3c;

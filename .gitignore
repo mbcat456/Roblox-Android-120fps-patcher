@@ -1,0 +1,16 @@
+installer/.gradle/
+installer/local_sdk/
+local_sdk/
+installer/build/
+installer/app/build/
+installer/manual/
+patcher/__pycache__/
+patcher/_work/
+patcher/test_stock_arm64.so
+patcher/test_stock_classes2.dex
+test_output/
+release/*.apk
+release/*.apkm
+release/*.apks
+release/*.idsig
+*.log

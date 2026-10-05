@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APKM Installer</string>
+    <string name="ready">Choose a Roblox .apkm or .apks bundle.</string>
+    <string name="choose_bundle">Choose bundle</string>
+    <string name="preparing">Extracting bundle...</string>
+    <string name="install_prompt">Install permission prompt opened.</string>
+    <string name="install_result">Install result: %1$s</string>
+    <string name="install_failed">Install failed: %1$s</string>
+</resources>
