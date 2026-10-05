@@ -1,0 +1,1095 @@
+arm64-v8a	0010ce8b	string-utf8	Java_com_roblox_engine_jni_NativeGLInterface_nativePassCurrentDisplayRefreshRate
+arm64-v8a	0010cedc	string-utf8	Java_com_roblox_engine_jni_NativeGLInterface_nativePassSupportedRefreshRates
+arm64-v8a	00329e07	string	[DFLog::Input] [InputDiagnostics] latency: writeToClaim={:.3f}/{:.3f}ms | claimToDispatch={:.3f}/{:.3f}ms | e2e={:.3f}/{:.3f}ms | samples={} | fps={:.1f} frameMs={:.1f} frames={}
+arm64-v8a	0032a1cc	string	FrameRateManager
+arm64-v8a	0032af2e	string	physicsFPS
+arm64-v8a	0032b2a1	string	NetClientFramesUnder60Fps_
+arm64-v8a	0032b5a9	string	SmoothFps_NonStreamingEnabled
+arm64-v8a	00331acb	string	setThrottleFramerateEnabled
+arm64-v8a	00334468	string	IsGetThrottleFramerateEnabledAvailable
+arm64-v8a	00334e7c	string	ReportVRRefreshRateChangeBelowLowerBoundThrottleHundrethsPercent
+arm64-v8a	003364bf	string	Render FPS
+arm64-v8a	0033b45a	string	Scaling down framerate: 
+arm64-v8a	0033b473	string	 max_fps=
+arm64-v8a	0033fed7	string	ApplicationFrameRate
+arm64-v8a	00347b09	string	ClientFPS_
+arm64-v8a	00349071	string	DebugExperimentalVSyncFramePacingForce
+arm64-v8a	0034e4d2	string	GetRealPhysicsFPS
+arm64-v8a	003531ad	string	DebugDisplayFPS
+arm64-v8a	00353ac3	string	body_120fps_cnt
+arm64-v8a	003560b8	string	encode_fps: 
+arm64-v8a	00363f02	string	RobloxTelemetryStatV2FPS
+arm64-v8a	00364192	string	DataPingFpsInfo
+arm64-v8a	0037246e	string	Constant Frame Rate
+arm64-v8a	003740cf	string	WebRTC.Video.Screenshare.Layer0.FrameRate
+arm64-v8a	00374579	string	Adjusting allocation, fps = 
+arm64-v8a	00374631	string	av1_fps
+arm64-v8a	003747c9	string	 Output fps: 
+arm64-v8a	00383f06	string	fpsMean
+arm64-v8a	0038a9eb	string	fps_avg
+arm64-v8a	0038aeab	string	ElevatedPhysicsFPSDetected_80
+arm64-v8a	0038e867	string	Average Frame Rate
+arm64-v8a	00390c85	string	VSyncEncodeAdapterMode::OnFrame
+arm64-v8a	00395c16	string	[FLog::ApplicationFrameRate] {} {} target: {:.2f} ms (user cap={} FPS, requested={:.2f} ms, display cap={} FPS); {} scheduler throttling for {} (VR active={}, VR throttling={}, forced presentation pacing={}, physics baseline={})
+arm64-v8a	00397a95	string	fps_min
+arm64-v8a	003a9e63	string	[DFLog::RVideoTrace] Invalid timebase provided to VPX encoder. Defaulting to 30fps.
+arm64-v8a	003ad10f	string	agg_fps_p75
+arm64-v8a	003b0cf3	string	RenderVSyncFramesWithinTargetPercent
+arm64-v8a	003b2478	string	TaskSchedulerTargetFps
+arm64-v8a	003b7e2e	string	_heartbeatFps
+arm64-v8a	003bae25	string	fpsP75
+arm64-v8a	003bb363	string	AnimationLodFacsFpsMin
+arm64-v8a	003c67c9	string	maxFps
+arm64-v8a	003c6c57	string	vpshufps
+arm64-v8a	003c8a74	string	, max_fps: 
+arm64-v8a	003c8bf5	string	Unsupported fps setting, value ignored.
+arm64-v8a	003cdbe9	string	ApplicationFrameRatePolicy
+arm64-v8a	003d348b	string	AppShellFPSReportPeriod
+arm64-v8a	003d5340	string	ClientFPS
+arm64-v8a	003d8ba9	string	fpsMaxOptional
+arm64-v8a	003dc599	string	CaptureVideoMaxFrameRate
+arm64-v8a	003dd232	string	FPS: {:.1f}
+arm64-v8a	003e17de	string	body_60fps_cnt
+arm64-v8a	003e43a7	string	Attempted to set RtpParameters max_framerate to an invalid value. max_framerate must be >= 0.0
+arm64-v8a	003e5d95	string	 min_fps 
+arm64-v8a	003e5eaa	string	Removing framerate down-scaling setting.
+arm64-v8a	003e6e5a	string	agg_fps_min
+arm64-v8a	003ec98d	string	agg/fps_min
+arm64-v8a	003f1ed4	string	[DFLog::NetworkJDIImpact] Average Additional Pause Time Per Frame Over 60fps : %f ms
+arm64-v8a	003f83e2	string	RCCHeartbeatFPS
+arm64-v8a	003fb65a	string	EnableFPSAndFrameTime
+arm64-v8a	003fd297	string	Physics FPS
+arm64-v8a	003fff27	string	input_fps: 
+arm64-v8a	003fff33	string	bw_adapted_fps: 
+arm64-v8a	004014d9	string	vp8_fps
+arm64-v8a	004081a0	string	agg/fps_stddev
+arm64-v8a	0040d00e	string	ClientPhysicsFPS
+arm64-v8a	0040d2ac	string	_smoothHeartbeatFps
+arm64-v8a	0040d6d7	string	AntiBotFpsBotCount
+arm64-v8a	0040f770	string	gfx/frm/frameRateCap
+arm64-v8a	004104c4	string	AnimationLodThrottlerFpsMin
+arm64-v8a	00412f2d	string	Engine.Rendering.FrameRateManager
+arm64-v8a	00416bb6	string	ElevatedPhysicsFPSDetected_100
+arm64-v8a	0041c288	string	.HarmonicFrameRate
+arm64-v8a	0041c521	string	SentToInputFpsRatioPercent
+arm64-v8a	0041c778	string	Encoder config has temporal layer with non-zero bitrate allocation but zero framerate allocation.
+arm64-v8a	0041d943	string	MaxDisplayRefreshRateHz
+arm64-v8a	0041d95b	string	WallTimeFpsStdDeviation
+arm64-v8a	0042895b	string	ClientRealtimePhysicsFPS_
+arm64-v8a	00428e58	string	_ClientHeartBeatFps
+arm64-v8a	0042c4ae	string	AnimationLodFacsFpsMax
+arm64-v8a	0042cb3c	string	TrackerLodFrameRateLowerBound
+arm64-v8a	0042ff66	string	aggFpsAvg
+arm64-v8a	00433368	string	[DFLog::LoomTrackerEngineTrace] detected low camera fps of {} FPS forcing extrapolation
+arm64-v8a	00434bdc	string	NetworkStatRefreshRate
+arm64-v8a	0043940a	string	 fps: 
+arm64-v8a	0043a439	string	[DFLog::PerformanceControlDisplayRefreshRate] setSupportedRefreshRates FAILED: Vector provided was empty
+arm64-v8a	004401e4	string	fpsimd not found
+arm64-v8a	00445ac2	string	AverageFPS
+arm64-v8a	004464a1	string	PhysicsFPSStats
+arm64-v8a	00446d10	string	frameRate
+arm64-v8a	00448eb6	string	fpsP25
+arm64-v8a	00451833	string	body_240fps_cnt
+arm64-v8a	004518a8	string	SimAdaptiveEnable60HzParts
+arm64-v8a	00456adb	string	EffectiveFpsStdDeviation
+arm64-v8a	0045b262	string	RenderVSyncRawDisplayRefreshRateHz
+arm64-v8a	0045d672	string	Couldn't read fpsimd 
+arm64-v8a	00462bff	string	SmoothFpsForStreamingEnabledGames
+arm64-v8a	00465aa3	string	[FLog::Error] Cannot calculate FPS with a gameStep of 0.
+arm64-v8a	0046dd7a	string	Effective FPS
+arm64-v8a	00472314	string	WebRTC.Video.AVSyncOffsetInMs
+arm64-v8a	00472332	string	WebRTC.Video.AVSyncOffsetInMs 
+arm64-v8a	004726a8	string	Scaling up framerate: 
+arm64-v8a	00472852	string	 max_fps: 
+arm64-v8a	00473a99	string	agg_fps_p10
+arm64-v8a	00479a38	string	agg/fps_p90
+arm64-v8a	0047eefd	string	averageFPS
+arm64-v8a	0047f0ff	string	AveragePauseTimeFramesWithJDIOUnder60Fps
+arm64-v8a	00481be7	string	particleFlipbookMaxFramerate
+arm64-v8a	0048b524	string	FPS............: 
+arm64-v8a	0048f208	string	 forwarding stored constraints min_fps 
+arm64-v8a	0049079d	string	agg_fps_p25
+arm64-v8a	00490963	string	FpsMean
+arm64-v8a	0049a497	string	BetterAppFPSStatReporting
+arm64-v8a	0049b4f7	string	FramerateManagerMode
+arm64-v8a	0049c1c8	string	ClientPhysicsFPS_Country_
+arm64-v8a	0049c3b4	string	HeartbeatFps
+arm64-v8a	0049c3c1	string	PhysicsFps
+arm64-v8a	0049f1cd	string	fpsP10
+arm64-v8a	004a835b	string	AuroraLimit60HzRenderSim
+arm64-v8a	004aaabc	string	WebRTC-Video-UseFrameRateForOverhead
+arm64-v8a	004abbce	string	WebRTC.Video.Screenshare.Layer1.FrameRate
+arm64-v8a	004ad18c	string	WallTimeFpsMean
+arm64-v8a	004ad2c5	string	[DFLog::PerformanceControlDisplayRefreshRate] setSupportedRefreshRates SUCCESS: Stored {} rates: {}
+arm64-v8a	004ad329	string	[DFLog::PerformanceControlDisplayRefreshRate] getPrimaryDisplayRefreshRate SUCCESS: Found {} Hz, VRR: {}
+arm64-v8a	004c5e41	string	network_fps: 
+arm64-v8a	004cc3da	string	RenderVSyncFramesMissed
+arm64-v8a	004ce08b	string	agg/fps_avg
+arm64-v8a	004d37ce	string	[DFLog::NetworkJDIImpact] Number of Frames under 60fps : %u
+arm64-v8a	004d71f4	string	AnimationParallelFpsLossFactor100th
+arm64-v8a	004ddba6	string	ElevatedPhysicsFPSDetected_90
+arm64-v8a	004df53b	string	FPS: 
+arm64-v8a	004e3503	string	VSyncEncodeDelay
+arm64-v8a	004e36cb	string	 fps=
+arm64-v8a	004e8bcc	string	RenderVSyncTimingSupported
+arm64-v8a	004eea3f	string	GameBasicSettingsFramerateCap
+arm64-v8a	004f0c11	string	NetClientFramesUnder60Fps
+arm64-v8a	004f3ae4	string	fpsP90
+arm64-v8a	004f77b3	string	FramerateCap
+arm64-v8a	005059b1	string	RenderVSyncFramesWithinTarget
+arm64-v8a	00505a55	string	PerformanceControlDisplaySupportedRefreshRates
+arm64-v8a	0050d4eb	string	ClientHeartBeatFps
+arm64-v8a	00510455	string	fpsP50
+arm64-v8a	00510f71	string	[DFLog::FaceAnimatorTrace] [FaceAnimatorService] Detected low camera fps of %f FPS forcing extrapolation
+arm64-v8a	005145bf	string	[DFLog::CaptureEngine] Skip rendering this cycle due to frame rate throttling
+arm64-v8a	0051b785	string	minFps
+arm64-v8a	0051c30f	string	, fps_allocation = [
+arm64-v8a	0051eba8	string	[DFLog::PerformanceControlDisplayRefreshRate] getPrimaryDisplayRefreshRate FAILED: Could not retrieve screen info. Defaulting to {} Hz
+arm64-v8a	0051f7d9	string	PerformanceControlDisplayRefreshRateInAdaptiveSync
+arm64-v8a	00524685	string	agg/fps_p50
+arm64-v8a	00525074	string	unexpected fpsimd context size 
+arm64-v8a	00529832	string	averageFpsDuringJoin
+arm64-v8a	0052d378	string	fpsMinOptional
+arm64-v8a	005309de	string	FlipbookFramerate
+arm64-v8a	00530b31	string	Is30FpsThrottleEnabled
+arm64-v8a	00530b6d	string	GetDefaultFramerateCap
+arm64-v8a	00532a2f	string	GetDefaultFramerateCap() is not enabled.
+arm64-v8a	00538447	string	[FLog::Error] Unable to open camera %s with params %d x %d @ %f fps
+arm64-v8a	0053a693	string	ZeroHertzAdapterMode::OnFrame
+arm64-v8a	0053a6b1	string	vsync_encode_adapter_
+arm64-v8a	00547210	string	RenderFps
+arm64-v8a	0054e459	string	getThrottleFramerateEnabled
+arm64-v8a	0055138b	string	PhysicsStepLimitMaxFPS
+arm64-v8a	0055d437	string	RenderVSyncIsVsyncEnabled
+arm64-v8a	0056386d	string	MaquettesFrameRateBufferPercentage
+arm64-v8a	00564ba9	string	AddTimerToClientFpsDataInTracer
+arm64-v8a	00566692	string	CLI198718AlphaModMinFps
+arm64-v8a	0056845f	string	TrackerLowCameraFPSDetectedThrottleHundrethsPercent
+arm64-v8a	0056acf0	string	rbxasset://textures/ui/LuaApp/graphic/Auth/FPSBackground.png
+arm64-v8a	0056c751	string	RCC Heartbeat FPS
+arm64-v8a	005708f9	string	body_30fps_cnt
+arm64-v8a	00572c20	string	cpu_adapted_fps: 
+arm64-v8a	00572cbb	string	Invalid framerate: 
+arm64-v8a	005755c4	string	PerformanceControlDisplayRefreshRateMigration
+arm64-v8a	0057fda3	string	FrameRateManager::submitCurrentFrame
+arm64-v8a	00580ef1	string	ClientFPS_Country_
+arm64-v8a	00587cce	string	[DFLog::CaptureEngine] GraphicBufferSource created with dimensions {}x{} at {} fps. Snapshot target frame: {}
+arm64-v8a	0058eeb3	string	decode_fps: 
+arm64-v8a	0058fee5	string	 max frame rate 
+arm64-v8a	0058ff27	string	Downgrade counts: fps: {
+arm64-v8a	0059a767	string	[FLog::AppShellReporter] Disconnecting FPS counter render-stepped
+arm64-v8a	005a40f5	string	LocalScript trying to set RCCProfilerRecordFrameRate is not allowed and will become an error in a future release.
+arm64-v8a	005aba3d	string	fps_diff
+arm64-v8a	005ad8fa	string	EnableAndroidVsync
+arm64-v8a	005b8118	string	SmoothHeartbeatFps
+arm64-v8a	005b812b	string	CalculatedFpsInReportingPeriod
+arm64-v8a	005c24bf	string	FrameRateMSToReduceTouchEvents
+arm64-v8a	005d3410	string	GraphicsOptimizationModeFRMFrameRateTarget
+arm64-v8a	005d4172	string	DataPingTracerFpsInfoThrottleHundredthsPercent
+arm64-v8a	005d80e7	string	[DFLog::TrackerLodControllerTrace] LOD processingTime = %f frameRate = %f running vote lodChangeVotes = %d bounds increase LOD bound = %d decrease LOD bound = %d newStateId = %d
+arm64-v8a	005e4020	string	Zero hertz mode disabled.
+arm64-v8a	005efb15	string	heartbeatFps
+arm64-v8a	005f03a3	string	heartbeat_fps
+arm64-v8a	005f08c3	string	GameSmoothFps
+arm64-v8a	005f1a3b	string	DebugExperimentalVSyncFramePacing
+arm64-v8a	005f74e8	string	Fixed60Hz
+arm64-v8a	005fa89d	string	ElevatedPhysicsFPSDetected_70
+arm64-v8a	005fa8bb	string	ElevatedPhysicsFPSDetected_65
+arm64-v8a	005fa8d9	string	ElevatedPhysicsFPSDetected_SetMinimum
+arm64-v8a	005fc40e	string	----- FPS -----
+arm64-v8a	00600a7f	string	Modifying framerate due to remaining fps count.
+arm64-v8a	0060199c	string	agg_fps_p50
+arm64-v8a	00601ad2	string	PerformanceControlVsyncIntervalMissMarginPercent
+arm64-v8a	0060c9eb	string	AddClientFpsDataToTracer
+arm64-v8a	0060e4a3	string	CLI198718AlphaModFullFps
+arm64-v8a	006130c8	string	RCCProfilerRecordFrameRate
+arm64-v8a	00613198	string	QuestDisplayRefreshRate
+arm64-v8a	0061bd7f	string	VSyncEncodeAdapterMode::EncodeAllEnqueuedFrames
+arm64-v8a	006226cb	string	"HeartbeatFps"
+arm64-v8a	0062646e	string	[FLog::AppShellReporter] Connecting FPS counter render-stepped
+arm64-v8a	006349e2	string	DebugSimAdaptiveEnable60HzHumanoids
+arm64-v8a	00638ca1	string	vp9_fps
+arm64-v8a	00638ca9	string	h264_fps
+arm64-v8a	00639bf6	string	EffectiveFpsMean
+arm64-v8a	0063f583	string	agg/fps_p25
+arm64-v8a	0064402b	string	DebugExtendFramerateWidget
+arm64-v8a	006487ef	string	avatarFaceChatLowCameraFPS
+arm64-v8a	006541e4	string	Unsupported framerate (must be >= 1.0): 
+arm64-v8a	006544aa	string	Zero hertz mode enabled (max_fps=
+arm64-v8a	006545c4	string	generic_fps
+arm64-v8a	006556e4	string	agg_fps_avg
+arm64-v8a	00655834	string	[DFLog::PerformanceControlDisplayRefreshRate] setCurrentRefreshRate FAILED: Rate {} Hz is below threshold (15.0)
+arm64-v8a	00656481	string	[FLog::Graphics] Trying to choose EGL config r%d g%d b%d vsync%d
+arm64-v8a	00663f45	string	AnimationLodThrottlerFpsMax
+arm64-v8a	0066bd95	string	Render Nominal FPS
+arm64-v8a	0066ef8d	string	render_fps: 
+arm64-v8a	0067056d	string	SentToInputFpsRatioPercent 
+arm64-v8a	006706e6	string	, input frame rate 
+arm64-v8a	006716b4	string	agg_fps_p90
+arm64-v8a	006717a2	string	FpsStdDeviation
+arm64-v8a	00671959	string	[DFLog::PerformanceControlDisplayRefreshRate] setCurrentRefreshRate SUCCESS: Updated Android rate to {} Hz
+arm64-v8a	0067cf73	string	ReportPhysicsFPSStatsForInfluxHundredthsPercentage
+arm64-v8a	006803cc	string	TrackerLODFrameRateLimitVoteAmount
+arm64-v8a	00686dd9	string	ElevatedPhysicsFPSReportThresholdTenths
+arm64-v8a	0068bdf2	string	, max_framerate: 
+arm64-v8a	0068be66	string	.HarmonicFrameRate 
+arm64-v8a	0068c0dd	string	Invalid fps/pixel value provided.
+arm64-v8a	00692951	string	agg/fps_p75
+arm64-v8a	006986fb	string	PhysicsSmoothFps
+arm64-v8a	006a2065	string	RefreshRateLowerBound
+arm64-v8a	006a207b	string	VRRefreshRateChangeBelowLowerBound
+arm64-v8a	006a792a	string	 max_fps 
+arm64-v8a	006a8e89	string	PerformanceControlBatteryStepUpMaxFpsDelta
+arm64-v8a	006a8fa3	string	PerformanceControlDisplayRefreshRate
+arm64-v8a	007a907d	string	N3RBX10Reflection9EventDescINS_8HumanoidEFvNSt6__ndk110shared_ptrINS_8BasePartEEES6_EN3rbx6signalIS7_EEMS2_FPSA_bEEE
+arm64-v8a	007ed649	string	NSt6__ndk110__function6__funcIN3RBX16IAccountProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	007f771e	string	N3RBX10Reflection18EnumPropDescriptorI19CRenderSettingsItemNS_5Enums20FramerateManagerModeEEE
+arm64-v8a	007f777c	string	N3RBX10Reflection14PropDescriptorI19CRenderSettingsItemNS_5Enums20FramerateManagerModeEE10GetSetImplIM18RenderSettingsPropKFS4_vEMS7_FvS4_EEE
+arm64-v8a	007f780a	string	N3RBX10Reflection23TypedPropertyDescriptorINS_5Enums20FramerateManagerModeEE6GetSetE
+arm64-v8a	007f7f34	string	N3RBX10Reflection8EnumDescINS_5Enums20FramerateManagerModeEEE
+arm64-v8a	007faba8	string	NSt6__ndk110__function6__funcIN3RBX20IBugReporterProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	007fad70	string	NSt6__ndk110__function6__funcIN3RBX20ILocalStorageHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	007faf92	string	NSt6__ndk110__function6__funcIN3RBX21IDeviceDisplayHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	007fbb8e	string	NSt6__ndk110__function6__funcIN3RBX16IWebViewProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	007fd25d	string	NSt6__ndk110__function6__funcIN3RBX18INativeAdsProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	007fe134	string	NSt6__ndk110__function6__funcIN3RBX20IAchievementProtocol3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	007fe2f7	string	NSt6__ndk110__function6__funcIN3RBX21IExternalIdentityCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0080b3f1	string	NSt6__ndk110__function6__funcINS_6__bindIPFRKfPS3_EJRS5_EEENS_9allocatorIS9_EEFfvEEE
+arm64-v8a	0080b46b	string	NSt6__ndk16__bindIPFRKfPS1_EJRS3_EEE
+arm64-v8a	0080b490	string	NSt6__ndk118__weak_result_typeIPFRKfPS1_EEE
+arm64-v8a	00823ec9	string	N3RBX10Reflection9EventDescINS_7Network6ClientEFvNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_8InstanceEEEEN3rbx6signalISE_EEMS3_FPSH_bEEE
+arm64-v8a	00823f7e	string	N3RBX10Reflection9EventDescINS_7Network6ClientEFvNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEiEN3rbx6signalISB_EEMS3_FPSE_bEEE
+arm64-v8a	00827e1a	string	NSt6__ndk110__function6__funcIN3RBX31IAppPlatformQoSEmergencyHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	008287d3	string	NSt6__ndk110__function6__funcIN3RBX20ISystemDialogHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0083381b	string	N3RBX8Graphics25FrameRateManagerStatsItemE
+arm64-v8a	00833846	string	N3RBX8Graphics31FrameRateManagerStatsStringItemE
+arm64-v8a	0085546f	string	NSt6__ndk110__function6__funcIN3RBX19IAppBadgingProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	00855c44	string	NSt6__ndk110__function6__funcIN3RBX21IConnectivityProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0085b7b5	string	NSt6__ndk110__function6__funcIN3RBX12ICallingCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0085bf38	string	NSt6__ndk110__function6__funcIN3RBX20IExampleProtocolCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0085e537	string	NSt6__ndk110__function6__funcIN3RBX20IMediaPickerProtocol3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0085f465	string	NSt6__ndk110__function6__funcIN3RBX22IDesignFoundationsCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0085f687	string	NSt6__ndk110__function6__funcIN3RBX15IConnectivityV23$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0085fd2d	string	NSt6__ndk110__function6__funcIN3RBX17IExampleV2Handler3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	0085ff27	string	NSt6__ndk110__function6__funcIN3RBX16IPinShortcutCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	008961a0	string	hbFaceChatVideoRate_fps
+arm64-v8a	008961b8	string	hbFaceChatA2cInferenceRate_fps
+arm64-v8a	008961f4	string	hbFaceChatInferenceRate_fps
+arm64-v8a	0089622a	string	hbFaceChatFrameRate_fps
+arm64-v8a	008962f3	string	perfFps_Avg
+arm64-v8a	008962ff	string	perfFps_p10
+arm64-v8a	0089630b	string	perfFps_p50
+arm64-v8a	008fd870	string	N3RBX10Reflection15RemoteEventDescINS_18MarketplaceServiceEFvNSt6__ndk110shared_ptrINS_8InstanceEEENS_5Enums35MarketplaceBulkPurchasePromptStatusENS4_IKNS0_10ValueTableEEEEN3rbx13remote_signalISC_EEMS2_FPSF_bEEE
+arm64-v8a	008fd944	string	N3RBX10Reflection9EventDescINS_18MarketplaceServiceEFvNSt6__ndk110shared_ptrINS_8InstanceEEENS_5Enums35MarketplaceBulkPurchasePromptStatusENS4_IKNS0_10ValueTableEEEEN3rbx13remote_signalISC_EEMS2_FPSF_bEEE
+arm64-v8a	0093b3d7	string	NSt6__ndk110__function6__funcIZN3RBX12AssetRequest17sendBatchAssetApiEPNS2_13BatchAssetApiEbE3$_0NS_9allocatorIS6_EEFvRKNS_12basic_stringIcNS_11char_traitsIcEENS7_IcEEEEfPSE_RKNS4_21BatchAssetRequestInfoEEEE
+arm64-v8a	0093b4a7	string	NSt6__ndk110__function6__baseIFvRKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEfPS8_RKN3RBX13BatchAssetApi21BatchAssetRequestInfoEEEE
+arm64-v8a	0098c5bc	string	N3RBX10Reflection9EventDescINS_13RealtimeMediaEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+arm64-v8a	0098eba4	string	N3RBX10Reflection9EventDescINS_10RunServiceEFvdEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+arm64-v8a	009ac731	string	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEEEN3rbx6signalIS7_EEMS2_FPSA_bEEE
+arm64-v8a	009ac7b0	string	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEENS_15CoordinateFrameEEN3rbx6signalIS8_EEMS2_FPSB_bEEE
+arm64-v8a	009ac8c1	string	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEEbEN3rbx6signalIS7_EEMS2_FPSA_bEEE
+arm64-v8a	009b20ac	string	N3RBX10Reflection9EventDescINS_11VideoPlayerEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+arm64-v8a	009c5aa9	string	FpsAvg
+arm64-v8a	009c752c	string	N3RBX10Reflection9EventDescINS_12VideoDisplayEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+arm64-v8a	009f164c	string	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+arm64-v8a	009f16e3	string	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+arm64-v8a	009f1773	string	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+arm64-v8a	009f181c	string	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+arm64-v8a	009f18be	string	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+arm64-v8a	009f1942	string	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+arm64-v8a	009ff1fa	string	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+arm64-v8a	009ff29b	string	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+arm64-v8a	009ff335	string	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+arm64-v8a	009ff3e8	string	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+arm64-v8a	009ff494	string	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+arm64-v8a	009ff522	string	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+arm64-v8a	00a67244	string	VideoCaptureFrameRateFps
+arm64-v8a	00aaba48	string	N3RBX10Reflection9EventDescINS_4PathEFviEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+arm64-v8a	00ac9796	string	NSt6__ndk110__function6__funcIN3RBX26IResourceOptimizationTimer3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	00b036e7	string	NSt6__ndk110__function6__funcIN3RBX14WindowProtocol19IWindowProtocolCore3$_0ENS_9allocatorIS5_EEFPS4_vEEE
+arm64-v8a	00b0be81	string	NSt6__ndk110__function6__funcIN3RBX20DisplayWakeLockGuard3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+arm64-v8a	00b18a56	string	N3RBX10Reflection9EventDescINS_10Soundscape11AudioChorusEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b18e93	string	N3RBX10Reflection9EventDescINS_10Soundscape15AudioCompressorEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b19717	string	N3RBX10Reflection9EventDescINS_10Soundscape16AudioDeviceInputEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b19ac4	string	N3RBX10Reflection9EventDescINS_10Soundscape17AudioDeviceOutputEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b19f0d	string	N3RBX10Reflection9EventDescINS_10Soundscape15AudioDistortionEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1a359	string	N3RBX10Reflection9EventDescINS_10Soundscape9AudioEchoEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1b2f7	string	N3RBX10Reflection9EventDescINS_10Soundscape12AudioEmitterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1b7ea	string	N3RBX10Reflection9EventDescINS_10Soundscape14AudioEqualizerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1bbfb	string	N3RBX10Reflection9EventDescINS_10Soundscape10AudioFaderEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1c018	string	N3RBX10Reflection9EventDescINS_10Soundscape12AudioFlangerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1cd4c	string	N3RBX10Reflection9EventDescINS_10Soundscape13AudioListenerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1d2f3	string	N3RBX10Reflection9EventDescINS_10Soundscape17AudioPitchShifterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1e2ac	string	N3RBX10Reflection9EventDescINS_10Soundscape11AudioPlayerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1e767	string	N3RBX10Reflection9EventDescINS_10Soundscape11AudioReverbEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b1f604	string	N3RBX10Reflection9EventDescINS_10Soundscape17AudioTextToSpeechEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b20292	string	N3RBX10Reflection9EventDescINS_10Soundscape12AudioTremoloEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b22df9	string	N3RBX10Reflection9EventDescINS_10Soundscape11AudioFilterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b23733	string	N3RBX10Reflection9EventDescINS_10Soundscape20AudioWindSynthesizerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b24109	string	N3RBX10Reflection9EventDescINS_10Soundscape13AudioAnalyzerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b245e8	string	N3RBX10Reflection9EventDescINS_10Soundscape17AudioChannelMixerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b24a9d	string	N3RBX10Reflection9EventDescINS_10Soundscape20AudioChannelSplitterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b25079	string	N3RBX10Reflection9EventDescINS_10Soundscape9AudioGateEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b2562a	string	N3RBX10Reflection9EventDescINS_10Soundscape12AudioLimiterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b264eb	string	N3RBX10Reflection9EventDescINS_10Soundscape13AudioRecorderEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00b26dd2	string	N3RBX10Reflection9EventDescINS_10Soundscape17AudioSpeechToTextEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+arm64-v8a	00d73d09	string	N6webrtc12_GLOBAL__N_120ZeroHertzAdapterModeE
+arm64-v8a	00d73d95	string	N6webrtc12_GLOBAL__N_122VSyncEncodeAdapterModeE
+arm64-v8a	00e0b1dd	string	N3RBX10Reflection15RemoteEventDescINS_8BasePartEFvNS_13SystemAddressEEN3rbx13remote_signalIS4_EEMS2_FPS7_bEEE
+arm64-v8a	00e0b24b	string	N3RBX10Reflection9EventDescINS_8BasePartEFvNS_13SystemAddressEEN3rbx13remote_signalIS4_EEMS2_FPS7_bEEE
+arm64-v8a	00e0b3a8	string	N3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEEE
+arm64-v8a	00e0b416	string	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_18LocalTouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E_NS_9allocatorISL_EES8_EE
+arm64-v8a	00e0b504	string	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E_
+arm64-v8a	00e0b5c1	string	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_18LocalTouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E0_NS_9allocatorISL_EES8_EE
+arm64-v8a	00e0b6b0	string	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E0_
+arm64-v8a	00e0b76e	string	N3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEEE
+arm64-v8a	00e0b7d7	string	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_13TouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E_NS_9allocatorISL_EES8_EE
+arm64-v8a	00e0b8c0	string	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E_
+arm64-v8a	00e0b978	string	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_13TouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E0_NS_9allocatorISL_EES8_EE
+arm64-v8a	00e0ba62	string	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E0_
+arm64-v8a	00e0bb1b	string	N3RBX10Reflection9EventDescINS_8BasePartEFvvEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+arm64-v8a	00e290f7	string	N3RBX10Reflection9EventDescINS_8InstanceEFvNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEN3rbx6signalISA_EEMS2_FPSD_bEEE
+arm64-v8a	00e29186	string	N3RBX10Reflection9EventDescINS_8InstanceEFvNSt6__ndk110shared_ptrIS2_EEEN3rbx6signalIS6_EEMS2_FPS9_bEEE
+arm64-v8a	00e291ee	string	N3RBX10Reflection9EventDescINS_8InstanceEFvvEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+armeabi-v7a	ac6b	string-ascii	Java_com_roblox_engine_jni_NativeGLInterface_nativePassCurrentDisplayRefreshRate
+armeabi-v7a	acbc	string-ascii	Java_com_roblox_engine_jni_NativeGLInterface_nativePassSupportedRefreshRates
+armeabi-v7a	1d6e34	string-ascii	[DFLog::Input] [InputDiagnostics] latency: writeToClaim={:.3f}/{:.3f}ms | claimToDispatch={:.3f}/{:.3f}ms | e2e={:.3f}/{:.3f}ms | samples={} | fps={:.1f} frameMs={:.1f} frames={}
+armeabi-v7a	1d6ff6	string-ascii	Render FPS
+armeabi-v7a	1d71a8	string-ascii	FrameRateManager
+armeabi-v7a	1d7f0a	string-ascii	physicsFPS
+armeabi-v7a	1d827d	string-ascii	NetClientFramesUnder60Fps_
+armeabi-v7a	1d855b	string-ascii	SmoothFps_NonStreamingEnabled
+armeabi-v7a	1dea9b	string-ascii	setThrottleFramerateEnabled
+armeabi-v7a	1e1472	string-ascii	IsGetThrottleFramerateEnabledAvailable
+armeabi-v7a	1e1e86	string-ascii	ReportVRRefreshRateChangeBelowLowerBoundThrottleHundrethsPercent
+armeabi-v7a	1e8190	string-ascii	Scaling down framerate: 
+armeabi-v7a	1e81a9	string-ascii	max_fps=
+armeabi-v7a	1ecb74	string-ascii	ApplicationFrameRate
+armeabi-v7a	1f47d9	string-ascii	ClientFPS_
+armeabi-v7a	1f5d25	string-ascii	DebugExperimentalVSyncFramePacingForce
+armeabi-v7a	1fb192	string-ascii	GetRealPhysicsFPS
+armeabi-v7a	1ffe70	string-ascii	DebugDisplayFPS
+armeabi-v7a	200783	string-ascii	body_120fps_cnt
+armeabi-v7a	202d78	string-ascii	encode_fps: 
+armeabi-v7a	210992	string-ascii	RobloxTelemetryStatV2FPS
+armeabi-v7a	210c09	string-ascii	DataPingFpsInfo
+armeabi-v7a	21ee65	string-ascii	Constant Frame Rate
+armeabi-v7a	220985	string-ascii	WebRTC.Video.Screenshare.Layer0.FrameRate
+armeabi-v7a	220df8	string-ascii	Adjusting allocation, fps = 
+armeabi-v7a	220eb0	string-ascii	av1_fps
+armeabi-v7a	221048	string-ascii	Output fps: 
+armeabi-v7a	230590	string-ascii	fpsMean
+armeabi-v7a	237067	string-ascii	fps_avg
+armeabi-v7a	237527	string-ascii	ElevatedPhysicsFPSDetected_80
+armeabi-v7a	23af2a	string-ascii	Average Frame Rate
+armeabi-v7a	23d1f5	string-ascii	VSyncEncodeAdapterMode::OnFrame
+armeabi-v7a	24221a	string-ascii	[FLog::ApplicationFrameRate] {} {} target: {:.2f} ms (user cap={} FPS, requested={:.2f} ms, display cap={} FPS); {} scheduler throttling for {} (VR active={}, VR throttling={}, forced presentation pacing={}, physics baseline={})
+armeabi-v7a	244090	string-ascii	fps_min
+armeabi-v7a	256381	string-ascii	[DFLog::RVideoTrace] Invalid timebase provided to VPX encoder. Defaulting to 30fps.
+armeabi-v7a	25938a	string-ascii	agg_fps_p75
+armeabi-v7a	25d0ff	string-ascii	RenderVSyncFramesWithinTargetPercent
+armeabi-v7a	25e884	string-ascii	TaskSchedulerTargetFps
+armeabi-v7a	267120	string-ascii	fpsP75
+armeabi-v7a	26765e	string-ascii	AnimationLodFacsFpsMin
+armeabi-v7a	272ada	string-ascii	maxFps
+armeabi-v7a	272f63	string-ascii	vpshufps
+armeabi-v7a	274c41	string-ascii	, max_fps: 
+armeabi-v7a	274dc2	string-ascii	Unsupported fps setting, value ignored.
+armeabi-v7a	279e3e	string-ascii	ApplicationFrameRatePolicy
+armeabi-v7a	27f6f2	string-ascii	AppShellFPSReportPeriod
+armeabi-v7a	2815d0	string-ascii	ClientFPS
+armeabi-v7a	284e01	string-ascii	fpsMaxOptional
+armeabi-v7a	288777	string-ascii	CaptureVideoMaxFrameRate
+armeabi-v7a	28940a	string-ascii	FPS: {:.1f}
+armeabi-v7a	28d9fc	string-ascii	body_60fps_cnt
+armeabi-v7a	291e66	string-ascii	min_fps 
+armeabi-v7a	291f7b	string-ascii	Removing framerate down-scaling setting.
+armeabi-v7a	292dc2	string-ascii	agg_fps_min
+armeabi-v7a	2987d7	string-ascii	agg/fps_min
+armeabi-v7a	29dc7c	string-ascii	[DFLog::NetworkJDIImpact] Average Additional Pause Time Per Frame Over 60fps : %f ms
+armeabi-v7a	2a4109	string-ascii	RCCHeartbeatFPS
+armeabi-v7a	2a7328	string-ascii	EnableFPSAndFrameTime
+armeabi-v7a	2a8cfc	string-ascii	Physics FPS
+armeabi-v7a	2abc1f	string-ascii	input_fps: 
+armeabi-v7a	2abc2b	string-ascii	bw_adapted_fps: 
+armeabi-v7a	2ad0d9	string-ascii	vp8_fps
+armeabi-v7a	2b3e1e	string-ascii	agg/fps_stddev
+armeabi-v7a	2b8cef	string-ascii	ClientPhysicsFPS
+armeabi-v7a	2b92f6	string-ascii	AntiBotFpsBotCount
+armeabi-v7a	2bb39e	string-ascii	gfx/frm/frameRateCap
+armeabi-v7a	2bc0fb	string-ascii	AnimationLodThrottlerFpsMin
+armeabi-v7a	2beb49	string-ascii	Engine.Rendering.FrameRateManager
+armeabi-v7a	2c2811	string-ascii	ElevatedPhysicsFPSDetected_100
+armeabi-v7a	2c829c	string-ascii	Encoder config has temporal layer with non-zero bitrate allocation but zero framerate allocation.
+armeabi-v7a	2c93a5	string-ascii	MaxDisplayRefreshRateHz
+armeabi-v7a	2c93bd	string-ascii	WallTimeFpsStdDeviation
+armeabi-v7a	2d4312	string-ascii	ClientRealtimePhysicsFPS_
+armeabi-v7a	2d7e6e	string-ascii	AnimationLodFacsFpsMax
+armeabi-v7a	2d84fc	string-ascii	TrackerLodFrameRateLowerBound
+armeabi-v7a	2db937	string-ascii	aggFpsAvg
+armeabi-v7a	2ded68	string-ascii	[DFLog::LoomTrackerEngineTrace] detected low camera fps of {} FPS forcing extrapolation
+armeabi-v7a	2e05a7	string-ascii	NetworkStatRefreshRate
+armeabi-v7a	2e4bff	string-ascii	fps: 
+armeabi-v7a	2e5c3b	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setSupportedRefreshRates FAILED: Vector provided was empty
+armeabi-v7a	2ebb8f	string-ascii	fpsimd not found
+armeabi-v7a	2f1468	string-ascii	AverageFPS
+armeabi-v7a	2f1de8	string-ascii	PhysicsFPSStats
+armeabi-v7a	2f2657	string-ascii	frameRate
+armeabi-v7a	2f480c	string-ascii	fpsP25
+armeabi-v7a	2fd1c7	string-ascii	body_240fps_cnt
+armeabi-v7a	2fd23c	string-ascii	SimAdaptiveEnable60HzParts
+armeabi-v7a	30221b	string-ascii	EffectiveFpsStdDeviation
+armeabi-v7a	306878	string-ascii	RenderVSyncRawDisplayRefreshRateHz
+armeabi-v7a	308c07	string-ascii	Couldn't read fpsimd 
+armeabi-v7a	30e0f6	string-ascii	SmoothFpsForStreamingEnabledGames
+armeabi-v7a	310fa8	string-ascii	[FLog::Error] Cannot calculate FPS with a gameStep of 0.
+armeabi-v7a	319278	string-ascii	Effective FPS
+armeabi-v7a	31d7ea	string-ascii	WebRTC.Video.AVSyncOffsetInMs
+armeabi-v7a	31d808	string-ascii	WebRTC.Video.AVSyncOffsetInMs 
+armeabi-v7a	31db4d	string-ascii	Scaling up framerate: 
+armeabi-v7a	31dcf7	string-ascii	max_fps: 
+armeabi-v7a	31ee6d	string-ascii	agg_fps_p10
+armeabi-v7a	324e3c	string-ascii	agg/fps_p90
+armeabi-v7a	32a1a4	string-ascii	averageFPS
+armeabi-v7a	32a38c	string-ascii	AveragePauseTimeFramesWithJDIOUnder60Fps
+armeabi-v7a	32cda7	string-ascii	particleFlipbookMaxFramerate
+armeabi-v7a	3366b6	string-ascii	FPS............: 
+armeabi-v7a	33a273	string-ascii	forwarding stored constraints min_fps 
+armeabi-v7a	33b764	string-ascii	agg_fps_p25
+armeabi-v7a	33b92a	string-ascii	FpsMean
+armeabi-v7a	34535f	string-ascii	BetterAppFPSStatReporting
+armeabi-v7a	346409	string-ascii	FramerateManagerMode
+armeabi-v7a	3470a3	string-ascii	ClientPhysicsFPS_Country_
+armeabi-v7a	34728f	string-ascii	HeartbeatFps
+armeabi-v7a	34729c	string-ascii	PhysicsFps
+armeabi-v7a	34a087	string-ascii	fpsP10
+armeabi-v7a	353181	string-ascii	AuroraLimit60HzRenderSim
+armeabi-v7a	3558eb	string-ascii	WebRTC-Video-UseFrameRateForOverhead
+armeabi-v7a	35691e	string-ascii	WebRTC.Video.Screenshare.Layer1.FrameRate
+armeabi-v7a	357e82	string-ascii	WallTimeFpsMean
+armeabi-v7a	357fbb	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setSupportedRefreshRates SUCCESS: Stored {} rates: {}
+armeabi-v7a	35801f	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] getPrimaryDisplayRefreshRate SUCCESS: Found {} Hz, VRR: {}
+armeabi-v7a	370b28	string-ascii	network_fps: 
+armeabi-v7a	377188	string-ascii	RenderVSyncFramesMissed
+armeabi-v7a	378e39	string-ascii	agg/fps_avg
+armeabi-v7a	37e4e8	string-ascii	[DFLog::NetworkJDIImpact] Number of Frames under 60fps : %u
+armeabi-v7a	381eed	string-ascii	AnimationParallelFpsLossFactor100th
+armeabi-v7a	3888ab	string-ascii	ElevatedPhysicsFPSDetected_90
+armeabi-v7a	38a240	string-ascii	FPS: 
+armeabi-v7a	38e11e	string-ascii	VSyncEncodeDelay
+armeabi-v7a	38e2e6	string-ascii	fps=
+armeabi-v7a	3937ed	string-ascii	RenderVSyncTimingSupported
+armeabi-v7a	395753	string-ascii	agg/fps_p10
+armeabi-v7a	399619	string-ascii	GameBasicSettingsFramerateCap
+armeabi-v7a	39b7d8	string-ascii	NetClientFramesUnder60Fps
+armeabi-v7a	39e636	string-ascii	fpsP90
+armeabi-v7a	3a22f7	string-ascii	FramerateCap
+armeabi-v7a	3b04b5	string-ascii	RenderVSyncFramesWithinTarget
+armeabi-v7a	3b0559	string-ascii	PerformanceControlDisplaySupportedRefreshRates
+armeabi-v7a	3b7f5f	string-ascii	ClientHeartBeatFps
+armeabi-v7a	3bae4b	string-ascii	fpsP50
+armeabi-v7a	3bb967	string-ascii	[DFLog::FaceAnimatorTrace] [FaceAnimatorService] Detected low camera fps of %f FPS forcing extrapolation
+armeabi-v7a	3bef62	string-ascii	[DFLog::CaptureEngine] Skip rendering this cycle due to frame rate throttling
+armeabi-v7a	3c6147	string-ascii	minFps
+armeabi-v7a	3c6ce3	string-ascii	, fps_allocation = [
+armeabi-v7a	3c9426	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] getPrimaryDisplayRefreshRate FAILED: Could not retrieve screen info. Defaulting to {} Hz
+armeabi-v7a	3ca05a	string-ascii	PerformanceControlDisplayRefreshRateInAdaptiveSync
+armeabi-v7a	3cef8b	string-ascii	agg/fps_p50
+armeabi-v7a	3cf817	string-ascii	unexpected fpsimd context size 
+armeabi-v7a	3d3fad	string-ascii	averageFpsDuringJoin
+armeabi-v7a	3d7ae8	string-ascii	fpsMinOptional
+armeabi-v7a	3db194	string-ascii	FlipbookFramerate
+armeabi-v7a	3db2e7	string-ascii	Is30FpsThrottleEnabled
+armeabi-v7a	3db323	string-ascii	GetDefaultFramerateCap
+armeabi-v7a	3dd1da	string-ascii	GetDefaultFramerateCap() is not enabled.
+armeabi-v7a	3e2bc3	string-ascii	[FLog::Error] Unable to open camera %s with params %d x %d @ %f fps
+armeabi-v7a	3e4c98	string-ascii	ZeroHertzAdapterMode::OnFrame
+armeabi-v7a	3e4cb6	string-ascii	vsync_encode_adapter_
+armeabi-v7a	3f17f3	string-ascii	RenderFps
+armeabi-v7a	3f8989	string-ascii	getThrottleFramerateEnabled
+armeabi-v7a	3fb868	string-ascii	PhysicsStepLimitMaxFPS
+armeabi-v7a	407680	string-ascii	RenderVSyncIsVsyncEnabled
+armeabi-v7a	40da48	string-ascii	MaquettesFrameRateBufferPercentage
+armeabi-v7a	40ed72	string-ascii	AddTimerToClientFpsDataInTracer
+armeabi-v7a	4107eb	string-ascii	CLI198718AlphaModMinFps
+armeabi-v7a	4125d6	string-ascii	TrackerLowCameraFPSDetectedThrottleHundrethsPercent
+armeabi-v7a	414e6a	string-ascii	rbxasset://textures/ui/LuaApp/graphic/Auth/FPSBackground.png
+armeabi-v7a	4168e3	string-ascii	RCC Heartbeat FPS
+armeabi-v7a	41aa85	string-ascii	body_30fps_cnt
+armeabi-v7a	41cdc2	string-ascii	cpu_adapted_fps: 
+armeabi-v7a	41ce5d	string-ascii	Invalid framerate: 
+armeabi-v7a	41f491	string-ascii	PerformanceControlDisplayRefreshRateMigration
+armeabi-v7a	429a13	string-ascii	FrameRateManager::submitCurrentFrame
+armeabi-v7a	42ab2a	string-ascii	ClientFPS_Country_
+armeabi-v7a	4318e9	string-ascii	[DFLog::CaptureEngine] GraphicBufferSource created with dimensions {}x{} at {} fps. Snapshot target frame: {}
+armeabi-v7a	438ac4	string-ascii	decode_fps: 
+armeabi-v7a	439a1b	string-ascii	max frame rate 
+armeabi-v7a	439a5d	string-ascii	Downgrade counts: fps: {
+armeabi-v7a	4443e8	string-ascii	[FLog::AppShellReporter] Disconnecting FPS counter render-stepped
+armeabi-v7a	44dcb4	string-ascii	LocalScript trying to set RCCProfilerRecordFrameRate is not allowed and will become an error in a future release.
+armeabi-v7a	45555b	string-ascii	fps_diff
+armeabi-v7a	4573ed	string-ascii	EnableAndroidVsync
+armeabi-v7a	461c34	string-ascii	SmoothHeartbeatFps
+armeabi-v7a	461c47	string-ascii	CalculatedFpsInReportingPeriod
+armeabi-v7a	46c013	string-ascii	FrameRateMSToReduceTouchEvents
+armeabi-v7a	47ce25	string-ascii	GraphicsOptimizationModeFRMFrameRateTarget
+armeabi-v7a	47db92	string-ascii	DataPingTracerFpsInfoThrottleHundredthsPercent
+armeabi-v7a	481ac1	string-ascii	[DFLog::TrackerLodControllerTrace] LOD processingTime = %f frameRate = %f running vote lodChangeVotes = %d bounds increase LOD bound = %d decrease LOD bound = %d newStateId = %d
+armeabi-v7a	48d78f	string-ascii	Zero hertz mode disabled.
+armeabi-v7a	499116	string-ascii	heartbeatFps
+armeabi-v7a	4999aa	string-ascii	heartbeat_fps
+armeabi-v7a	499e52	string-ascii	GameSmoothFps
+armeabi-v7a	49afd0	string-ascii	DebugExperimentalVSyncFramePacing
+armeabi-v7a	4a0a16	string-ascii	Fixed60Hz
+armeabi-v7a	4a3de6	string-ascii	ElevatedPhysicsFPSDetected_70
+armeabi-v7a	4a3e04	string-ascii	ElevatedPhysicsFPSDetected_65
+armeabi-v7a	4a3e22	string-ascii	ElevatedPhysicsFPSDetected_SetMinimum
+armeabi-v7a	4a5941	string-ascii	----- FPS -----
+armeabi-v7a	4a9f2b	string-ascii	Modifying framerate due to remaining fps count.
+armeabi-v7a	4aae0f	string-ascii	agg_fps_p50
+armeabi-v7a	4aaf45	string-ascii	PerformanceControlVsyncIntervalMissMarginPercent
+armeabi-v7a	4b5d33	string-ascii	AddClientFpsDataToTracer
+armeabi-v7a	4b7781	string-ascii	CLI198718AlphaModFullFps
+armeabi-v7a	4bc3d1	string-ascii	RCCProfilerRecordFrameRate
+armeabi-v7a	4bc4a1	string-ascii	QuestDisplayRefreshRate
+armeabi-v7a	4c5065	string-ascii	VSyncEncodeAdapterMode::EncodeAllEnqueuedFrames
+armeabi-v7a	4cb7cc	string-ascii	"HeartbeatFps"
+armeabi-v7a	4cf502	string-ascii	[FLog::AppShellReporter] Connecting FPS counter render-stepped
+armeabi-v7a	4ddaad	string-ascii	DebugSimAdaptiveEnable60HzHumanoids
+armeabi-v7a	4e1ca4	string-ascii	vp9_fps
+armeabi-v7a	4e1cac	string-ascii	h264_fps
+armeabi-v7a	4e2b38	string-ascii	EffectiveFpsMean
+armeabi-v7a	4e8592	string-ascii	agg/fps_p25
+armeabi-v7a	4ed023	string-ascii	DebugExtendFramerateWidget
+armeabi-v7a	4f174a	string-ascii	avatarFaceChatLowCameraFPS
+armeabi-v7a	4fd08f	string-ascii	Unsupported framerate (must be >= 1.0): 
+armeabi-v7a	4fd31e	string-ascii	Zero hertz mode enabled (max_fps=
+armeabi-v7a	4fd438	string-ascii	generic_fps
+armeabi-v7a	4fe558	string-ascii	agg_fps_avg
+armeabi-v7a	4fe6a8	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setCurrentRefreshRate FAILED: Rate {} Hz is below threshold (15.0)
+armeabi-v7a	4ff2f5	string-ascii	[FLog::Graphics] Trying to choose EGL config r%d g%d b%d vsync%d
+armeabi-v7a	5088b6	string-ascii	Render Nominal FPS
+armeabi-v7a	50cc92	string-ascii	AnimationLodThrottlerFpsMax
+armeabi-v7a	517ce6	string-ascii	render_fps: 
+armeabi-v7a	5191c9	string-ascii	SentToInputFpsRatioPercent 
+armeabi-v7a	519342	string-ascii	, input frame rate 
+armeabi-v7a	51a2f7	string-ascii	agg_fps_p90
+armeabi-v7a	51a3e5	string-ascii	FpsStdDeviation
+armeabi-v7a	51a59c	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setCurrentRefreshRate SUCCESS: Updated Android rate to {} Hz
+armeabi-v7a	525a1a	string-ascii	ReportPhysicsFPSStatsForInfluxHundredthsPercentage
+armeabi-v7a	528e73	string-ascii	TrackerLODFrameRateLimitVoteAmount
+armeabi-v7a	52f8ad	string-ascii	ElevatedPhysicsFPSReportThresholdTenths
+armeabi-v7a	5347cd	string-ascii	, max_framerate: 
+armeabi-v7a	534841	string-ascii	.HarmonicFrameRate 
+armeabi-v7a	534ab8	string-ascii	Invalid fps/pixel value provided.
+armeabi-v7a	53b344	string-ascii	agg/fps_p75
+armeabi-v7a	541080	string-ascii	PhysicsSmoothFps
+armeabi-v7a	54a99e	string-ascii	RefreshRateLowerBound
+armeabi-v7a	54a9b4	string-ascii	VRRefreshRateChangeBelowLowerBound
+armeabi-v7a	5501b9	string-ascii	max_fps 
+armeabi-v7a	5516a4	string-ascii	PerformanceControlBatteryStepUpMaxFpsDelta
+armeabi-v7a	5517be	string-ascii	PerformanceControlDisplayRefreshRate
+armeabi-v7a	558fa8	string-ascii	_heartbeatFps
+armeabi-v7a	559368	string-ascii	Attempted to set RtpParameters max_framerate to an invalid value. max_framerate must be >= 0.0
+armeabi-v7a	559a10	string-ascii	_smoothHeartbeatFps
+armeabi-v7a	559c08	string-ascii	.HarmonicFrameRate
+armeabi-v7a	559c20	string-ascii	SentToInputFpsRatioPercent
+armeabi-v7a	559e40	string-ascii	_ClientHeartBeatFps
+armeabi-v7a	5d08bc	string-ascii	N3RBX10Reflection9EventDescINS_8HumanoidEFvNSt6__ndk110shared_ptrINS_8BasePartEEES6_EN3rbx6signalIS7_EEMS2_FPSA_bEEE
+armeabi-v7a	614993	string-ascii	NSt6__ndk110__function6__funcIN3RBX16IAccountProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	61e9fe	string-ascii	N3RBX10Reflection18EnumPropDescriptorI19CRenderSettingsItemNS_5Enums20FramerateManagerModeEEE
+armeabi-v7a	61ea5c	string-ascii	N3RBX10Reflection14PropDescriptorI19CRenderSettingsItemNS_5Enums20FramerateManagerModeEE10GetSetImplIM18RenderSettingsPropKFS4_vEMS7_FvS4_EEE
+armeabi-v7a	61eaea	string-ascii	N3RBX10Reflection23TypedPropertyDescriptorINS_5Enums20FramerateManagerModeEE6GetSetE
+armeabi-v7a	61f214	string-ascii	N3RBX10Reflection8EnumDescINS_5Enums20FramerateManagerModeEEE
+armeabi-v7a	621ab0	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IBugReporterProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	621c78	string-ascii	NSt6__ndk110__function6__funcIN3RBX20ILocalStorageHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	621e9a	string-ascii	NSt6__ndk110__function6__funcIN3RBX21IDeviceDisplayHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	622a96	string-ascii	NSt6__ndk110__function6__funcIN3RBX16IWebViewProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	624165	string-ascii	NSt6__ndk110__function6__funcIN3RBX18INativeAdsProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	62503c	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IAchievementProtocol3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	6251ff	string-ascii	NSt6__ndk110__function6__funcIN3RBX21IExternalIdentityCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	631e54	string-ascii	NSt6__ndk110__function6__funcINS_6__bindIPFRKfPS3_EJRS5_EEENS_9allocatorIS9_EEFfvEEE
+armeabi-v7a	631ece	string-ascii	NSt6__ndk16__bindIPFRKfPS1_EJRS3_EEE
+armeabi-v7a	631ef3	string-ascii	NSt6__ndk118__weak_result_typeIPFRKfPS1_EEE
+armeabi-v7a	646940	string-ascii	N3RBX10Reflection9EventDescINS_7Network6ClientEFvNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_8InstanceEEEEN3rbx6signalISE_EEMS3_FPSH_bEEE
+armeabi-v7a	6469f5	string-ascii	N3RBX10Reflection9EventDescINS_7Network6ClientEFvNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEiEN3rbx6signalISB_EEMS3_FPSE_bEEE
+armeabi-v7a	64a892	string-ascii	NSt6__ndk110__function6__funcIN3RBX31IAppPlatformQoSEmergencyHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	64b24b	string-ascii	NSt6__ndk110__function6__funcIN3RBX20ISystemDialogHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	6561fb	string-ascii	N3RBX8Graphics25FrameRateManagerStatsItemE
+armeabi-v7a	656226	string-ascii	N3RBX8Graphics31FrameRateManagerStatsStringItemE
+armeabi-v7a	677c51	string-ascii	NSt6__ndk110__function6__funcIN3RBX19IAppBadgingProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	6783fe	string-ascii	NSt6__ndk110__function6__funcIN3RBX21IConnectivityProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	67df1d	string-ascii	NSt6__ndk110__function6__funcIN3RBX12ICallingCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	67e6a0	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IExampleProtocolCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	680c9f	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IMediaPickerProtocol3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	681bcd	string-ascii	NSt6__ndk110__function6__funcIN3RBX22IDesignFoundationsCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	681def	string-ascii	NSt6__ndk110__function6__funcIN3RBX15IConnectivityV23$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	682495	string-ascii	NSt6__ndk110__function6__funcIN3RBX17IExampleV2Handler3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	68268f	string-ascii	NSt6__ndk110__function6__funcIN3RBX16IPinShortcutCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	6b7cb8	string-ascii	hbFaceChatVideoRate_fps
+armeabi-v7a	6b7cd0	string-ascii	hbFaceChatA2cInferenceRate_fps
+armeabi-v7a	6b7d0c	string-ascii	hbFaceChatInferenceRate_fps
+armeabi-v7a	6b7d42	string-ascii	hbFaceChatFrameRate_fps
+armeabi-v7a	6b7e0b	string-ascii	perfFps_Avg
+armeabi-v7a	6b7e17	string-ascii	perfFps_p10
+armeabi-v7a	6b7e23	string-ascii	perfFps_p50
+armeabi-v7a	71f39d	string-ascii	N3RBX10Reflection15RemoteEventDescINS_18MarketplaceServiceEFvNSt6__ndk110shared_ptrINS_8InstanceEEENS_5Enums35MarketplaceBulkPurchasePromptStatusENS4_IKNS0_10ValueTableEEEEN3rbx13remote_signalISC_EEMS2_FPSF_bEEE
+armeabi-v7a	71f471	string-ascii	N3RBX10Reflection9EventDescINS_18MarketplaceServiceEFvNSt6__ndk110shared_ptrINS_8InstanceEEENS_5Enums35MarketplaceBulkPurchasePromptStatusENS4_IKNS0_10ValueTableEEEEN3rbx13remote_signalISC_EEMS2_FPSF_bEEE
+armeabi-v7a	75c20f	string-ascii	NSt6__ndk110__function6__funcIZN3RBX12AssetRequest17sendBatchAssetApiEPNS2_13BatchAssetApiEbE3$_0NS_9allocatorIS6_EEFvRKNS_12basic_stringIcNS_11char_traitsIcEENS7_IcEEEEfPSE_RKNS4_21BatchAssetRequestInfoEEEE
+armeabi-v7a	75c2df	string-ascii	NSt6__ndk110__function6__baseIFvRKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEfPS8_RKN3RBX13BatchAssetApi21BatchAssetRequestInfoEEEE
+armeabi-v7a	7acda0	string-ascii	N3RBX10Reflection9EventDescINS_13RealtimeMediaEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+armeabi-v7a	7af388	string-ascii	N3RBX10Reflection9EventDescINS_10RunServiceEFvdEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+armeabi-v7a	7ccf15	string-ascii	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEEEN3rbx6signalIS7_EEMS2_FPSA_bEEE
+armeabi-v7a	7ccf94	string-ascii	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEENS_15CoordinateFrameEEN3rbx6signalIS8_EEMS2_FPSB_bEEE
+armeabi-v7a	7cd0a5	string-ascii	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEEbEN3rbx6signalIS7_EEMS2_FPSA_bEEE
+armeabi-v7a	7d2890	string-ascii	N3RBX10Reflection9EventDescINS_11VideoPlayerEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+armeabi-v7a	7e627d	string-ascii	FpsAvg
+armeabi-v7a	7e7d00	string-ascii	N3RBX10Reflection9EventDescINS_12VideoDisplayEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+armeabi-v7a	811d14	string-ascii	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+armeabi-v7a	811dab	string-ascii	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+armeabi-v7a	811e3b	string-ascii	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+armeabi-v7a	811ee4	string-ascii	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+armeabi-v7a	811f86	string-ascii	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+armeabi-v7a	81200a	string-ascii	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+armeabi-v7a	81f789	string-ascii	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+armeabi-v7a	81f82a	string-ascii	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+armeabi-v7a	81f8c4	string-ascii	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+armeabi-v7a	81f977	string-ascii	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+armeabi-v7a	81fa23	string-ascii	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+armeabi-v7a	81fab1	string-ascii	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+armeabi-v7a	886d94	string-ascii	VideoCaptureFrameRateFps
+armeabi-v7a	8cb374	string-ascii	N3RBX10Reflection9EventDescINS_4PathEFviEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+armeabi-v7a	8e9022	string-ascii	NSt6__ndk110__function6__funcIN3RBX26IResourceOptimizationTimer3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	922ebf	string-ascii	NSt6__ndk110__function6__funcIN3RBX14WindowProtocol19IWindowProtocolCore3$_0ENS_9allocatorIS5_EEFPS4_vEEE
+armeabi-v7a	92b54a	string-ascii	NSt6__ndk110__function6__funcIN3RBX20DisplayWakeLockGuard3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+armeabi-v7a	937ffe	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioChorusEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93843b	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape15AudioCompressorEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	938c96	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape16AudioDeviceInputEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	939043	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioDeviceOutputEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93948c	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape15AudioDistortionEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	9398d8	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape9AudioEchoEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93a876	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioEmitterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93ad69	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape14AudioEqualizerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93b17a	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape10AudioFaderEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93b597	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioFlangerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93c2cb	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape13AudioListenerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93c872	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioPitchShifterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93d82b	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioPlayerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93dce6	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioReverbEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93eb83	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioTextToSpeechEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	93f811	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioTremoloEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	942375	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioFilterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	942caf	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape20AudioWindSynthesizerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	9436a7	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape13AudioAnalyzerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	943b86	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioChannelMixerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	94403b	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape20AudioChannelSplitterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	944617	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape9AudioGateEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	944bc8	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioLimiterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	945a89	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape13AudioRecorderEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	946370	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioSpeechToTextEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+armeabi-v7a	b8a7d1	string-ascii	N6webrtc12_GLOBAL__N_120ZeroHertzAdapterModeE
+armeabi-v7a	b8a85d	string-ascii	N6webrtc12_GLOBAL__N_122VSyncEncodeAdapterModeE
+armeabi-v7a	c20779	string-ascii	N3RBX10Reflection15RemoteEventDescINS_8BasePartEFvNS_13SystemAddressEEN3rbx13remote_signalIS4_EEMS2_FPS7_bEEE
+armeabi-v7a	c207e7	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvNS_13SystemAddressEEN3rbx13remote_signalIS4_EEMS2_FPS7_bEEE
+armeabi-v7a	c20944	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEEE
+armeabi-v7a	c209b2	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_18LocalTouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E_NS_9allocatorISL_EES8_EE
+armeabi-v7a	c20aa0	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E_
+armeabi-v7a	c20b5d	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_18LocalTouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E0_NS_9allocatorISL_EES8_EE
+armeabi-v7a	c20c4c	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E0_
+armeabi-v7a	c20d0a	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEEE
+armeabi-v7a	c20d73	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_13TouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E_NS_9allocatorISL_EES8_EE
+armeabi-v7a	c20e5c	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E_
+armeabi-v7a	c20f14	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_13TouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E0_NS_9allocatorISL_EES8_EE
+armeabi-v7a	c20ffe	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E0_
+armeabi-v7a	c210b7	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvvEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+armeabi-v7a	c3e437	string-ascii	N3RBX10Reflection9EventDescINS_8InstanceEFvNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEN3rbx6signalISA_EEMS2_FPSD_bEEE
+armeabi-v7a	c3e4c6	string-ascii	N3RBX10Reflection9EventDescINS_8InstanceEFvNSt6__ndk110shared_ptrIS2_EEEN3rbx6signalIS6_EEMS2_FPS9_bEEE
+armeabi-v7a	c3e52e	string-ascii	N3RBX10Reflection9EventDescINS_8InstanceEFvvEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+armeabi-v7a	cbb542	string-ascii	var ProfileFps = 0;
+armeabi-v7a	cbb556	string-ascii	var ProfileFpsAggr = 0;
+armeabi-v7a	cbb56e	string-ascii	var ProfileFpsCount = 0;
+armeabi-v7a	cbbf92	string-ascii	ProfileFpsAggr += Delta;
+armeabi-v7a	cbbfae	string-ascii	ProfileFpsCount ++ ;
+armeabi-v7a	cbbfde	string-ascii	if(ProfileFpsCount == AggrFrames)
+armeabi-v7a	cbc008	string-ascii	ProfileFps = 1000 / (ProfileFpsAggr / AggrFrames);
+armeabi-v7a	cbc03f	string-ascii	ProfileFpsAggr = 0;
+armeabi-v7a	cbc057	string-ascii	ProfileFpsCount = 0;
+armeabi-v7a	cbc075	string-ascii	StringArray.push("FPS");
+armeabi-v7a	cbc091	string-ascii	StringArray.push("" + ProfileFps.toFixed(2));
+armeabi-v7a	cd3b7a	string-ascii	if(Invalidate == 0) //when panning, only draw bars that are a certain width to keep decent framerate
+armeabi-v7a	1b0f998	string-ascii	lFps FIF
+armeabi-v7a	365b0e2	string-ascii	eI_ DFpSyD	
+armeabi-v7a	3690abe	string-ascii	FpSC
+armeabi-v7a	4306467	string-ascii	[aFpsdyOv@~IHxDpGO
+x86_64	cf5b	string-ascii	Java_com_roblox_engine_jni_NativeGLInterface_nativePassCurrentDisplayRefreshRate
+x86_64	cfac	string-ascii	Java_com_roblox_engine_jni_NativeGLInterface_nativePassSupportedRefreshRates
+x86_64	216714	string-ascii	[DFLog::Input] [InputDiagnostics] latency: writeToClaim={:.3f}/{:.3f}ms | claimToDispatch={:.3f}/{:.3f}ms | e2e={:.3f}/{:.3f}ms | samples={} | fps={:.1f} frameMs={:.1f} frames={}
+x86_64	216ad9	string-ascii	FrameRateManager
+x86_64	21783b	string-ascii	physicsFPS
+x86_64	217bae	string-ascii	NetClientFramesUnder60Fps_
+x86_64	217eb6	string-ascii	SmoothFps_NonStreamingEnabled
+x86_64	21e3ab	string-ascii	setThrottleFramerateEnabled
+x86_64	220cfd	string-ascii	IsGetThrottleFramerateEnabledAvailable
+x86_64	221711	string-ascii	ReportVRRefreshRateChangeBelowLowerBoundThrottleHundrethsPercent
+x86_64	222c7c	string-ascii	Render FPS
+x86_64	227a44	string-ascii	Scaling down framerate: 
+x86_64	227a5d	string-ascii	max_fps=
+x86_64	22c41b	string-ascii	ApplicationFrameRate
+x86_64	234004	string-ascii	ClientFPS_
+x86_64	23556c	string-ascii	DebugExperimentalVSyncFramePacingForce
+x86_64	23a9b7	string-ascii	GetRealPhysicsFPS
+x86_64	23f63a	string-ascii	DebugDisplayFPS
+x86_64	23ff50	string-ascii	body_120fps_cnt
+x86_64	24251f	string-ascii	encode_fps: 
+x86_64	250216	string-ascii	RobloxTelemetryStatV2FPS
+x86_64	2504a6	string-ascii	DataPingFpsInfo
+x86_64	25e6bb	string-ascii	Constant Frame Rate
+x86_64	26067c	string-ascii	Adjusting allocation, fps = 
+x86_64	260734	string-ascii	av1_fps
+x86_64	2608cc	string-ascii	Output fps: 
+x86_64	26fde4	string-ascii	fpsMean
+x86_64	276834	string-ascii	fps_avg
+x86_64	276cf4	string-ascii	ElevatedPhysicsFPSDetected_80
+x86_64	27a62b	string-ascii	Average Frame Rate
+x86_64	27c94e	string-ascii	VSyncEncodeAdapterMode::OnFrame
+x86_64	281825	string-ascii	[FLog::ApplicationFrameRate] {} {} target: {:.2f} ms (user cap={} FPS, requested={:.2f} ms, display cap={} FPS); {} scheduler throttling for {} (VR active={}, VR throttling={}, forced presentation pacing={}, physics baseline={})
+x86_64	2836a4	string-ascii	fps_min
+x86_64	29586c	string-ascii	[DFLog::RVideoTrace] Invalid timebase provided to VPX encoder. Defaulting to 30fps.
+x86_64	29886a	string-ascii	agg_fps_p75
+x86_64	29c3e8	string-ascii	RenderVSyncFramesWithinTargetPercent
+x86_64	29db6d	string-ascii	TaskSchedulerTargetFps
+x86_64	2a64a2	string-ascii	fpsP75
+x86_64	2a69e0	string-ascii	AnimationLodFacsFpsMin
+x86_64	2b1d31	string-ascii	maxFps
+x86_64	2b21a8	string-ascii	vpshufps
+x86_64	2b3ebe	string-ascii	, max_fps: 
+x86_64	2b403f	string-ascii	Unsupported fps setting, value ignored.
+x86_64	2b9046	string-ascii	ApplicationFrameRatePolicy
+x86_64	2be836	string-ascii	AppShellFPSReportPeriod
+x86_64	2c06eb	string-ascii	ClientFPS
+x86_64	2c3f07	string-ascii	fpsMaxOptional
+x86_64	2c78d9	string-ascii	CaptureVideoMaxFrameRate
+x86_64	2c8565	string-ascii	FPS: {:.1f}
+x86_64	2ccb16	string-ascii	body_60fps_cnt
+x86_64	2cf646	string-ascii	Attempted to set RtpParameters max_framerate to an invalid value. max_framerate must be >= 0.0
+x86_64	2d0f8d	string-ascii	min_fps 
+x86_64	2d109b	string-ascii	Removing framerate down-scaling setting.
+x86_64	2d200d	string-ascii	agg_fps_min
+x86_64	2d7ab8	string-ascii	agg/fps_min
+x86_64	2dcfcc	string-ascii	[DFLog::NetworkJDIImpact] Average Additional Pause Time Per Frame Over 60fps : %f ms
+x86_64	2e349e	string-ascii	RCCHeartbeatFPS
+x86_64	2e669a	string-ascii	EnableFPSAndFrameTime
+x86_64	2e8237	string-ascii	Physics FPS
+x86_64	2eadf4	string-ascii	input_fps: 
+x86_64	2eae00	string-ascii	bw_adapted_fps: 
+x86_64	2ec340	string-ascii	vp8_fps
+x86_64	2f2f89	string-ascii	agg/fps_stddev
+x86_64	2f7e37	string-ascii	ClientPhysicsFPS
+x86_64	2f80c6	string-ascii	_smoothHeartbeatFps
+x86_64	2f84e1	string-ascii	AntiBotFpsBotCount
+x86_64	2fa57a	string-ascii	gfx/frm/frameRateCap
+x86_64	2fb2ce	string-ascii	AnimationLodThrottlerFpsMin
+x86_64	2fdca8	string-ascii	Engine.Rendering.FrameRateManager
+x86_64	301931	string-ascii	ElevatedPhysicsFPSDetected_100
+x86_64	306e91	string-ascii	.HarmonicFrameRate
+x86_64	3070f9	string-ascii	SentToInputFpsRatioPercent
+x86_64	307324	string-ascii	Encoder config has temporal layer with non-zero bitrate allocation but zero framerate allocation.
+x86_64	3083f0	string-ascii	MaxDisplayRefreshRateHz
+x86_64	308408	string-ascii	WallTimeFpsStdDeviation
+x86_64	313377	string-ascii	ClientRealtimePhysicsFPS_
+x86_64	313874	string-ascii	_ClientHeartBeatFps
+x86_64	316ea0	string-ascii	AnimationLodFacsFpsMax
+x86_64	31752e	string-ascii	TrackerLodFrameRateLowerBound
+x86_64	31a958	string-ascii	aggFpsAvg
+x86_64	31dd14	string-ascii	[DFLog::LoomTrackerEngineTrace] detected low camera fps of {} FPS forcing extrapolation
+x86_64	31f505	string-ascii	NetworkStatRefreshRate
+x86_64	323b47	string-ascii	fps: 
+x86_64	324b43	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setSupportedRefreshRates FAILED: Vector provided was empty
+x86_64	33008b	string-ascii	AverageFPS
+x86_64	330a6a	string-ascii	PhysicsFPSStats
+x86_64	3312db	string-ascii	frameRate
+x86_64	333474	string-ascii	fpsP25
+x86_64	33bd79	string-ascii	body_240fps_cnt
+x86_64	33bdee	string-ascii	SimAdaptiveEnable60HzParts
+x86_64	340e5c	string-ascii	EffectiveFpsStdDeviation
+x86_64	34556c	string-ascii	RenderVSyncRawDisplayRefreshRateHz
+x86_64	34ce45	string-ascii	SmoothFpsForStreamingEnabledGames
+x86_64	34fce9	string-ascii	[FLog::Error] Cannot calculate FPS with a gameStep of 0.
+x86_64	357f06	string-ascii	Effective FPS
+x86_64	35c374	string-ascii	WebRTC.Video.AVSyncOffsetInMs 
+x86_64	35c698	string-ascii	Scaling up framerate: 
+x86_64	35c834	string-ascii	max_fps: 
+x86_64	35d97b	string-ascii	agg_fps_p10
+x86_64	36391a	string-ascii	agg/fps_p90
+x86_64	368d5b	string-ascii	averageFPS
+x86_64	368f5d	string-ascii	AveragePauseTimeFramesWithJDIOUnder60Fps
+x86_64	36b9e1	string-ascii	particleFlipbookMaxFramerate
+x86_64	3751d9	string-ascii	FPS............: 
+x86_64	378dc2	string-ascii	forwarding stored constraints min_fps 
+x86_64	37a2ff	string-ascii	agg_fps_p25
+x86_64	37a4c5	string-ascii	FpsMean
+x86_64	383f7b	string-ascii	BetterAppFPSStatReporting
+x86_64	384fdb	string-ascii	FramerateManagerMode
+x86_64	385cac	string-ascii	ClientPhysicsFPS_Country_
+x86_64	385e98	string-ascii	HeartbeatFps
+x86_64	385ea5	string-ascii	PhysicsFps
+x86_64	388ca5	string-ascii	fpsP10
+x86_64	391d8d	string-ascii	AuroraLimit60HzRenderSim
+x86_64	3944c7	string-ascii	WebRTC-Video-UseFrameRateForOverhead
+x86_64	396ab7	string-ascii	WallTimeFpsMean
+x86_64	396bf0	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setSupportedRefreshRates SUCCESS: Stored {} rates: {}
+x86_64	396c54	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] getPrimaryDisplayRefreshRate SUCCESS: Found {} Hz, VRR: {}
+x86_64	3af5b3	string-ascii	network_fps: 
+x86_64	3b59b9	string-ascii	RenderVSyncFramesMissed
+x86_64	3b766a	string-ascii	agg/fps_avg
+x86_64	3bcd5c	string-ascii	[DFLog::NetworkJDIImpact] Number of Frames under 60fps : %u
+x86_64	3c0767	string-ascii	AnimationParallelFpsLossFactor100th
+x86_64	3c70de	string-ascii	ElevatedPhysicsFPSDetected_90
+x86_64	3c8a26	string-ascii	FPS: 
+x86_64	3ccae1	string-ascii	fps=
+x86_64	3d1fb0	string-ascii	RenderVSyncTimingSupported
+x86_64	3d3f16	string-ascii	agg/fps_p10
+x86_64	3d7ee7	string-ascii	GameBasicSettingsFramerateCap
+x86_64	3da0b4	string-ascii	NetClientFramesUnder60Fps
+x86_64	3dcf82	string-ascii	fpsP90
+x86_64	3e0bfe	string-ascii	FramerateCap
+x86_64	3eeb99	string-ascii	RenderVSyncFramesWithinTarget
+x86_64	3eec3d	string-ascii	PerformanceControlDisplaySupportedRefreshRates
+x86_64	3f66de	string-ascii	ClientHeartBeatFps
+x86_64	3f9633	string-ascii	fpsP50
+x86_64	3fa14f	string-ascii	[DFLog::FaceAnimatorTrace] [FaceAnimatorService] Detected low camera fps of %f FPS forcing extrapolation
+x86_64	3fd78d	string-ascii	[DFLog::CaptureEngine] Skip rendering this cycle due to frame rate throttling
+x86_64	4048da	string-ascii	minFps
+x86_64	405436	string-ascii	, fps_allocation = [
+x86_64	407a6a	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] getPrimaryDisplayRefreshRate FAILED: Could not retrieve screen info. Defaulting to {} Hz
+x86_64	408691	string-ascii	PerformanceControlDisplayRefreshRateInAdaptiveSync
+x86_64	40d533	string-ascii	agg/fps_p50
+x86_64	41264e	string-ascii	averageFpsDuringJoin
+x86_64	416194	string-ascii	fpsMinOptional
+x86_64	4197db	string-ascii	FlipbookFramerate
+x86_64	41992e	string-ascii	Is30FpsThrottleEnabled
+x86_64	41996a	string-ascii	GetDefaultFramerateCap
+x86_64	41b811	string-ascii	GetDefaultFramerateCap() is not enabled.
+x86_64	42121d	string-ascii	[FLog::Error] Unable to open camera %s with params %d x %d @ %f fps
+x86_64	4233e2	string-ascii	ZeroHertzAdapterMode::OnFrame
+x86_64	423400	string-ascii	vsync_encode_adapter_
+x86_64	42ff15	string-ascii	RenderFps
+x86_64	4370c2	string-ascii	getThrottleFramerateEnabled
+x86_64	439f6d	string-ascii	PhysicsStepLimitMaxFPS
+x86_64	445d96	string-ascii	RenderVSyncIsVsyncEnabled
+x86_64	44c166	string-ascii	MaquettesFrameRateBufferPercentage
+x86_64	44d497	string-ascii	AddTimerToClientFpsDataInTracer
+x86_64	44ef57	string-ascii	CLI198718AlphaModMinFps
+x86_64	450d24	string-ascii	TrackerLowCameraFPSDetectedThrottleHundrethsPercent
+x86_64	453580	string-ascii	rbxasset://textures/ui/LuaApp/graphic/Auth/FPSBackground.png
+x86_64	454ff6	string-ascii	RCC Heartbeat FPS
+x86_64	4590dc	string-ascii	body_30fps_cnt
+x86_64	45b3d7	string-ascii	cpu_adapted_fps: 
+x86_64	45b472	string-ascii	Invalid framerate: 
+x86_64	45dc7e	string-ascii	PerformanceControlDisplayRefreshRateMigration
+x86_64	4682e1	string-ascii	FrameRateManager::submitCurrentFrame
+x86_64	469420	string-ascii	ClientFPS_Country_
+x86_64	470166	string-ascii	[DFLog::CaptureEngine] GraphicBufferSource created with dimensions {}x{} at {} fps. Snapshot target frame: {}
+x86_64	4771ac	string-ascii	decode_fps: 
+x86_64	47815a	string-ascii	max frame rate 
+x86_64	47819c	string-ascii	Downgrade counts: fps: {
+x86_64	482860	string-ascii	[FLog::AppShellReporter] Disconnecting FPS counter render-stepped
+x86_64	48c15c	string-ascii	LocalScript trying to set RCCProfilerRecordFrameRate is not allowed and will become an error in a future release.
+x86_64	493971	string-ascii	fps_diff
+x86_64	4957ef	string-ascii	EnableAndroidVsync
+x86_64	49ff26	string-ascii	SmoothHeartbeatFps
+x86_64	49ff39	string-ascii	CalculatedFpsInReportingPeriod
+x86_64	4aa226	string-ascii	FrameRateMSToReduceTouchEvents
+x86_64	4baec8	string-ascii	GraphicsOptimizationModeFRMFrameRateTarget
+x86_64	4bbc2a	string-ascii	DataPingTracerFpsInfoThrottleHundredthsPercent
+x86_64	4bfb77	string-ascii	[DFLog::TrackerLodControllerTrace] LOD processingTime = %f frameRate = %f running vote lodChangeVotes = %d bounds increase LOD bound = %d decrease LOD bound = %d newStateId = %d
+x86_64	4cb9d6	string-ascii	Zero hertz mode disabled.
+x86_64	4d73be	string-ascii	heartbeatFps
+x86_64	4d7c4c	string-ascii	heartbeat_fps
+x86_64	4d816c	string-ascii	GameSmoothFps
+x86_64	4d92e4	string-ascii	DebugExperimentalVSyncFramePacing
+x86_64	4ded67	string-ascii	Fixed60Hz
+x86_64	4e2100	string-ascii	ElevatedPhysicsFPSDetected_70
+x86_64	4e211e	string-ascii	ElevatedPhysicsFPSDetected_65
+x86_64	4e213c	string-ascii	ElevatedPhysicsFPSDetected_SetMinimum
+x86_64	4e3bc8	string-ascii	----- FPS -----
+x86_64	4e80f8	string-ascii	Modifying framerate due to remaining fps count.
+x86_64	4e8fd8	string-ascii	agg_fps_p50
+x86_64	4e910e	string-ascii	PerformanceControlVsyncIntervalMissMarginPercent
+x86_64	4f3f71	string-ascii	AddClientFpsDataToTracer
+x86_64	4f5a0b	string-ascii	CLI198718AlphaModFullFps
+x86_64	4fa62c	string-ascii	RCCProfilerRecordFrameRate
+x86_64	4fa6fc	string-ascii	QuestDisplayRefreshRate
+x86_64	50314d	string-ascii	VSyncEncodeAdapterMode::EncodeAllEnqueuedFrames
+x86_64	509960	string-ascii	"HeartbeatFps"
+x86_64	50d680	string-ascii	[FLog::AppShellReporter] Connecting FPS counter render-stepped
+x86_64	51bb50	string-ascii	DebugSimAdaptiveEnable60HzHumanoids
+x86_64	51fd28	string-ascii	vp9_fps
+x86_64	51fd30	string-ascii	h264_fps
+x86_64	520c08	string-ascii	EffectiveFpsMean
+x86_64	526567	string-ascii	agg/fps_p25
+x86_64	52aff6	string-ascii	DebugExtendFramerateWidget
+x86_64	52f7ad	string-ascii	avatarFaceChatLowCameraFPS
+x86_64	53aec9	string-ascii	Unsupported framerate (must be >= 1.0): 
+x86_64	53b15c	string-ascii	Zero hertz mode enabled (max_fps=
+x86_64	53b276	string-ascii	generic_fps
+x86_64	53c396	string-ascii	agg_fps_avg
+x86_64	53c4e6	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setCurrentRefreshRate FAILED: Rate {} Hz is below threshold (15.0)
+x86_64	53d133	string-ascii	[FLog::Graphics] Trying to choose EGL config r%d g%d b%d vsync%d
+x86_64	54aac5	string-ascii	AnimationLodThrottlerFpsMax
+x86_64	552816	string-ascii	Render Nominal FPS
+x86_64	5559ca	string-ascii	render_fps: 
+x86_64	556f43	string-ascii	SentToInputFpsRatioPercent 
+x86_64	5570bc	string-ascii	, input frame rate 
+x86_64	55800e	string-ascii	agg_fps_p90
+x86_64	5580fc	string-ascii	FpsStdDeviation
+x86_64	5582b3	string-ascii	[DFLog::PerformanceControlDisplayRefreshRate] setCurrentRefreshRate SUCCESS: Updated Android rate to {} Hz
+x86_64	5637c4	string-ascii	ReportPhysicsFPSStatsForInfluxHundredthsPercentage
+x86_64	566bb1	string-ascii	TrackerLODFrameRateLimitVoteAmount
+x86_64	56d543	string-ascii	ElevatedPhysicsFPSReportThresholdTenths
+x86_64	5723c8	string-ascii	, max_framerate: 
+x86_64	572404	string-ascii	.HarmonicFrameRate 
+x86_64	572669	string-ascii	Invalid fps/pixel value provided.
+x86_64	578deb	string-ascii	agg/fps_p75
+x86_64	57eaa2	string-ascii	PhysicsSmoothFps
+x86_64	588346	string-ascii	RefreshRateLowerBound
+x86_64	58835c	string-ascii	VRRefreshRateChangeBelowLowerBound
+x86_64	58dad7	string-ascii	max_fps 
+x86_64	58ef95	string-ascii	PerformanceControlBatteryStepUpMaxFpsDelta
+x86_64	58f0af	string-ascii	PerformanceControlDisplayRefreshRate
+x86_64	6182e4	string-ascii	N3RBX10Reflection9EventDescINS_8HumanoidEFvNSt6__ndk110shared_ptrINS_8BasePartEEES6_EN3rbx6signalIS7_EEMS2_FPSA_bEEE
+x86_64	65e43a	string-ascii	NSt6__ndk110__function6__funcIN3RBX16IAccountProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6686d9	string-ascii	N3RBX10Reflection18EnumPropDescriptorI19CRenderSettingsItemNS_5Enums20FramerateManagerModeEEE
+x86_64	668737	string-ascii	N3RBX10Reflection14PropDescriptorI19CRenderSettingsItemNS_5Enums20FramerateManagerModeEE10GetSetImplIM18RenderSettingsPropKFS4_vEMS7_FvS4_EEE
+x86_64	6687c5	string-ascii	N3RBX10Reflection23TypedPropertyDescriptorINS_5Enums20FramerateManagerModeEE6GetSetE
+x86_64	668ef0	string-ascii	N3RBX10Reflection8EnumDescINS_5Enums20FramerateManagerModeEEE
+x86_64	66bc58	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IBugReporterProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	66be20	string-ascii	NSt6__ndk110__function6__funcIN3RBX20ILocalStorageHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	66c042	string-ascii	NSt6__ndk110__function6__funcIN3RBX21IDeviceDisplayHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	66cc4e	string-ascii	NSt6__ndk110__function6__funcIN3RBX16IWebViewProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	66e31d	string-ascii	NSt6__ndk110__function6__funcIN3RBX18INativeAdsProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	66f1f4	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IAchievementProtocol3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	66f3b7	string-ascii	NSt6__ndk110__function6__funcIN3RBX21IExternalIdentityCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	67d439	string-ascii	NSt6__ndk110__function6__funcINS_6__bindIPFRKfPS3_EJRS5_EEENS_9allocatorIS9_EEFfvEEE
+x86_64	67d4b3	string-ascii	NSt6__ndk16__bindIPFRKfPS1_EJRS3_EEE
+x86_64	67d4d8	string-ascii	NSt6__ndk118__weak_result_typeIPFRKfPS1_EEE
+x86_64	696cdd	string-ascii	N3RBX10Reflection9EventDescINS_7Network6ClientEFvNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_8InstanceEEEEN3rbx6signalISE_EEMS3_FPSH_bEEE
+x86_64	696d92	string-ascii	N3RBX10Reflection9EventDescINS_7Network6ClientEFvNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEEiEN3rbx6signalISB_EEMS3_FPSE_bEEE
+x86_64	69adfb	string-ascii	NSt6__ndk110__function6__funcIN3RBX31IAppPlatformQoSEmergencyHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	69b7b4	string-ascii	NSt6__ndk110__function6__funcIN3RBX20ISystemDialogHandler3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6a7423	string-ascii	N3RBX8Graphics25FrameRateManagerStatsItemE
+x86_64	6a744e	string-ascii	N3RBX8Graphics31FrameRateManagerStatsStringItemE
+x86_64	6c9c02	string-ascii	NSt6__ndk110__function6__funcIN3RBX19IAppBadgingProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6ca3d8	string-ascii	NSt6__ndk110__function6__funcIN3RBX21IConnectivityProtocol3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6cff61	string-ascii	NSt6__ndk110__function6__funcIN3RBX12ICallingCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6d0750	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IExampleProtocolCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6d2d57	string-ascii	NSt6__ndk110__function6__funcIN3RBX20IMediaPickerProtocol3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6d3c94	string-ascii	NSt6__ndk110__function6__funcIN3RBX22IDesignFoundationsCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6d3eb6	string-ascii	NSt6__ndk110__function6__funcIN3RBX15IConnectivityV23$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6d455c	string-ascii	NSt6__ndk110__function6__funcIN3RBX17IExampleV2Handler3$_1ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	6d4756	string-ascii	NSt6__ndk110__function6__funcIN3RBX16IPinShortcutCore3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	70c990	string-ascii	hbFaceChatVideoRate_fps
+x86_64	70c9b0	string-ascii	hbFaceChatA2cInferenceRate_fps
+x86_64	70c9f0	string-ascii	hbFaceChatInferenceRate_fps
+x86_64	70ca30	string-ascii	hbFaceChatFrameRate_fps
+x86_64	70cb2f	string-ascii	perfFps_Avg
+x86_64	70cb3b	string-ascii	perfFps_p10
+x86_64	70cb47	string-ascii	perfFps_p50
+x86_64	774e99	string-ascii	N3RBX10Reflection15RemoteEventDescINS_18MarketplaceServiceEFvNSt6__ndk110shared_ptrINS_8InstanceEEENS_5Enums35MarketplaceBulkPurchasePromptStatusENS4_IKNS0_10ValueTableEEEEN3rbx13remote_signalISC_EEMS2_FPSF_bEEE
+x86_64	774f6d	string-ascii	N3RBX10Reflection9EventDescINS_18MarketplaceServiceEFvNSt6__ndk110shared_ptrINS_8InstanceEEENS_5Enums35MarketplaceBulkPurchasePromptStatusENS4_IKNS0_10ValueTableEEEEN3rbx13remote_signalISC_EEMS2_FPSF_bEEE
+x86_64	7b3d71	string-ascii	NSt6__ndk110__function6__funcIZN3RBX12AssetRequest17sendBatchAssetApiEPNS2_13BatchAssetApiEbE3$_0NS_9allocatorIS6_EEFvRKNS_12basic_stringIcNS_11char_traitsIcEENS7_IcEEEEfPSE_RKNS4_21BatchAssetRequestInfoEEEE
+x86_64	7b3e41	string-ascii	NSt6__ndk110__function6__baseIFvRKNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEfPS8_RKN3RBX13BatchAssetApi21BatchAssetRequestInfoEEEE
+x86_64	80546c	string-ascii	N3RBX10Reflection9EventDescINS_13RealtimeMediaEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+x86_64	807a54	string-ascii	N3RBX10Reflection9EventDescINS_10RunServiceEFvdEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+x86_64	8255e1	string-ascii	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEEEN3rbx6signalIS7_EEMS2_FPSA_bEEE
+x86_64	825660	string-ascii	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEENS_15CoordinateFrameEEN3rbx6signalIS8_EEMS2_FPSB_bEEE
+x86_64	825771	string-ascii	N3RBX10Reflection9EventDescINS_16UserInputServiceEFvNSt6__ndk110shared_ptrINS_11InputObjectEEEbEN3rbx6signalIS7_EEMS2_FPSA_bEEE
+x86_64	82af5c	string-ascii	N3RBX10Reflection9EventDescINS_11VideoPlayerEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+x86_64	83e9c2	string-ascii	FpsAvg
+x86_64	84068d	string-ascii	N3RBX10Reflection9EventDescINS_12VideoDisplayEFvbNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_10shared_ptrINS_4WireEEENSA_INS_8InstanceEEEEN3rbx6signalISF_EEMS2_FPSI_bEEE
+x86_64	86b02e	string-ascii	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+x86_64	86b0c5	string-ascii	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+x86_64	86b155	string-ascii	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+x86_64	86b1fe	string-ascii	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+x86_64	86b2a0	string-ascii	N3RBX10Reflection15RemoteEventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+x86_64	86b324	string-ascii	N3RBX10Reflection9EventDescINS_11RemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+x86_64	878e42	string-ascii	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+x86_64	878ee3	string-ascii	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalES8_EEMS2_FPSC_bEEE
+x86_64	878f7d	string-ascii	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+x86_64	879030	string-ascii	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrINS_6PlayerEEENS4_IKNS0_5TupleEEEENS_13LatchedSignalIN3rbx13remote_signalESA_EEMS2_FPSE_bEEE
+x86_64	8790dc	string-ascii	N3RBX10Reflection15RemoteEventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+x86_64	87916a	string-ascii	N3RBX10Reflection9EventDescINS_21UnreliableRemoteEventEFvNSt6__ndk110shared_ptrIKNS0_5TupleEEEEN3rbx13remote_signalIS8_EEMS2_FPSB_bEEE
+x86_64	8e23a0	string-ascii	VideoCaptureFrameRateFps
+x86_64	927440	string-ascii	N3RBX10Reflection9EventDescINS_4PathEFviEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+x86_64	94549e	string-ascii	NSt6__ndk110__function6__funcIN3RBX26IResourceOptimizationTimer3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	97f8ef	string-ascii	NSt6__ndk110__function6__funcIN3RBX14WindowProtocol19IWindowProtocolCore3$_0ENS_9allocatorIS5_EEFPS4_vEEE
+x86_64	9889c6	string-ascii	NSt6__ndk110__function6__funcIN3RBX20DisplayWakeLockGuard3$_0ENS_9allocatorIS4_EEFPS3_vEEE
+x86_64	99590d	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioChorusEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	995d4a	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape15AudioCompressorEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9965a5	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape16AudioDeviceInputEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	996952	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioDeviceOutputEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	996d9b	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape15AudioDistortionEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9971e7	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape9AudioEchoEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	998185	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioEmitterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	998678	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape14AudioEqualizerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	998a89	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape10AudioFaderEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	998ea6	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioFlangerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	999bda	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape13AudioListenerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	99a181	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioPitchShifterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	99b13a	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioPlayerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	99b5f5	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioReverbEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	99c492	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioTextToSpeechEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	99d120	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioTremoloEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	99fc85	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape11AudioFilterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a061f	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape20AudioWindSynthesizerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a101f	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape13AudioAnalyzerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a14fe	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioChannelMixerEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a19f0	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape20AudioChannelSplitterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a1fcc	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape9AudioGateEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a257d	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape12AudioLimiterEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a343e	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape13AudioRecorderEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	9a3d25	string-ascii	N3RBX10Reflection9EventDescINS_10Soundscape17AudioSpeechToTextEFvbNSt6__ndk112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcEEEENS4_10shared_ptrINS_4WireEEENSB_INS_8InstanceEEEEN3rbx6signalISG_EEMS3_FPSJ_bEEE
+x86_64	bf7901	string-ascii	N6webrtc12_GLOBAL__N_120ZeroHertzAdapterModeE
+x86_64	bf798d	string-ascii	N6webrtc12_GLOBAL__N_122VSyncEncodeAdapterModeE
+x86_64	c9576d	string-ascii	N3RBX10Reflection15RemoteEventDescINS_8BasePartEFvNS_13SystemAddressEEN3rbx13remote_signalIS4_EEMS2_FPS7_bEEE
+x86_64	c957db	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvNS_13SystemAddressEEN3rbx13remote_signalIS4_EEMS2_FPS7_bEEE
+x86_64	c95938	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEEE
+x86_64	c959a6	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_18LocalTouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E_NS_9allocatorISL_EES8_EE
+x86_64	c95a94	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E_
+x86_64	c95b51	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_18LocalTouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E0_NS_9allocatorISL_EES8_EE
+x86_64	c95c40	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_18LocalTouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E0_
+x86_64	c95cfe	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEEE
+x86_64	c95d67	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_13TouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E_NS_9allocatorISL_EES8_EE
+x86_64	c95e50	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E_
+x86_64	c95f08	string-ascii	NSt6__ndk110__function6__funcIZNK3RBX10Reflection9EventDescINS2_8BasePartEFvNS_10shared_ptrIS5_EEENS2_13TouchedSignalEMS5_FPS9_bEE14connectGenericEPNS3_11EventSourceENS6_INS3_18GenericSlotWrapperEEEEUlDpOT_E0_NS_9allocatorISL_EES8_EE
+x86_64	c95ff2	string-ascii	ZNK3RBX10Reflection9EventDescINS_8BasePartEFvNSt6__ndk110shared_ptrIS2_EEENS_13TouchedSignalEMS2_FPS7_bEE14connectGenericEPNS0_11EventSourceENS4_INS0_18GenericSlotWrapperEEEEUlDpOT_E0_
+x86_64	c960ab	string-ascii	N3RBX10Reflection9EventDescINS_8BasePartEFvvEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+x86_64	cb3d6f	string-ascii	N3RBX10Reflection9EventDescINS_8InstanceEFvNSt6__ndk112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEN3rbx6signalISA_EEMS2_FPSD_bEEE
+x86_64	cb3dfe	string-ascii	N3RBX10Reflection9EventDescINS_8InstanceEFvNSt6__ndk110shared_ptrIS2_EEEN3rbx6signalIS6_EEMS2_FPS9_bEEE
+x86_64	cb3e66	string-ascii	N3RBX10Reflection9EventDescINS_8InstanceEFvvEN3rbx6signalIS3_EEMS2_FPS6_bEEE
+x86_64	d39e3b	string-ascii	var ProfileFps = 0;
+x86_64	d39e4f	string-ascii	var ProfileFpsAggr = 0;
+x86_64	d39e67	string-ascii	var ProfileFpsCount = 0;
+x86_64	d3a88b	string-ascii	ProfileFpsAggr += Delta;
+x86_64	d3a8a7	string-ascii	ProfileFpsCount ++ ;
+x86_64	d3a8d7	string-ascii	if(ProfileFpsCount == AggrFrames)
+x86_64	d3a901	string-ascii	ProfileFps = 1000 / (ProfileFpsAggr / AggrFrames);
+x86_64	d3a938	string-ascii	ProfileFpsAggr = 0;
+x86_64	d3a950	string-ascii	ProfileFpsCount = 0;
+x86_64	d3a96e	string-ascii	StringArray.push("FPS");
+x86_64	d3a98a	string-ascii	StringArray.push("" + ProfileFps.toFixed(2));
+x86_64	d5248e	string-ascii	if(Invalidate == 0) //when panning, only draw bars that are a certain width to keep decent framerate
+x86_64	235f318	string-ascii	fhM;fps
+x86_64	245062d	string-ascii	5fPs
+x86_64	285ae4e	string-ascii	fA;FPs|fA
+x86_64	2886405	string-ascii	7FPS
+x86_64	28864d7	string-ascii	7FPS_C
+x86_64	33caae3	string-ascii	,FPS
+x86_64	33cab96	string-ascii	FPS_C
+x86_64	3421677	string-ascii	tFpsC
+x86_64	34217ae	string-ascii	tbeatFpsK
+x86_64	34218d1	string-ascii	tFpsC
+x86_64	43129f8	string-ascii	M;fPs2I
+x86_64	514e8fc	string-ascii	tive FPSH
+x86_64	514e9ab	string-ascii	tive FPSH3P
+x86_64	6b3b165	string-ascii	M9fps"I

@@ -1,0 +1,839 @@
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0x1714b	Heartbeat	Heartbeat
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0x2162b	Heartbeat	Heartbeat
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0x5161c	renderStepped	_renderSteppedConnection
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0x516e0	renderStepped	renderStepped
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0x58e4f	renderStepped	renderStepped
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0x6e4bd	FPS	rmanceTrackerEventStream,GetFFlagEnableNavigationPerformanceIntervals#GetFFlagAXFPSEventStreamAndCounters LuaAppScrollTelemetryIntegration%FFlagLuaAppScrollTelemet
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0x7a75d	FPS	oductInfoEDP0FFlagAddPerformanceMetricsToUnifiedPurchaseModal$FIntLegacyPurchaseFPSTrackingTimeout FFlagEnableNotificationsDeeplink
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xb6a8d	FPS	AXFPSEventStreamAndCounters
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xca980	heartbeat	heartbeatFrameMarker
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xca99f	Heartbeat	heartbeatFrameMarker
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xca9e2	FrameRate	targetMsByHeartbeatDelta
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xca9f3	FrameRate	desiredFrameRate
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcaa73	Heartbeat	LuaAppSchedulerDeferredWork#LuaAppSchedulerHeartbeatFrameMarker'LuaAppSchedulerTargetMsByHeartbeatDelta%LuaAppSchedulerNumberOfLookb
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcaaa1	Heartbeat	edulerDeferredWork#LuaAppSchedulerHeartbeatFrameMarker'LuaAppSchedulerTargetMsByHeartbeatDelta%LuaAppSchedulerNumberOfLookbackFrames$LuaAppSchedulerLookbackUseRingBuffer
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcab11	FrameRate	LuaAppSchedulerDesiredFrameRate
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcab31	FrameRate	LuaAppSchedulerDesiredFrameRate
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcab89	Heartbeat	LuaInExpSchedulerDeferredWork%LuaInExpSchedulerHeartbeatFrameMarker)LuaInExpSchedulerTargetMsByHeartbeatDelta'LuaInExpSchedulerNumberOfL
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcabb9	Heartbeat	erDeferredWork%LuaInExpSchedulerHeartbeatFrameMarker)LuaInExpSchedulerTargetMsByHeartbeatDelta'LuaInExpSchedulerNumberOfLookbackFrames&LuaInExpSchedulerLookbackUseRingBu
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcac2f	FrameRate	OfLookbackFrames&LuaInExpSchedulerLookbackUseRingBuffer!LuaInExpSchedulerDesiredFrameRate!LuaInExpSchedulerMinimumFrameRate
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xcac51	FrameRate	LookbackUseRingBuffer!LuaInExpSchedulerDesiredFrameRate!LuaInExpSchedulerMinimumFrameRate
+CrossExpVoiceDataModelPatch.rbxm	ModuleScript	Source	type=0x1d	off=0xeafd5	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x163807	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x17433e	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1850bc	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1bc57e	FPS	averageFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1bdd40	FPS	averageFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1c9b37	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26b750	Framerate	getThrottleFramerateEnabled
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26b76c	Framerate	getThrottleFramerateEnabled
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26bfbc	Framerate	DefineFastFlag&IsGetThrottleFramerateEnabledAvailable
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x320af0	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3409e8	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x463543	FPS	Improvements0FFlagAddPerformanceMetricsToUnifiedPurchaseModal$FIntLegacyPurchaseFPSTrackingTimeout"FIntTTIUnifiedPurchaseSamplingRate+FFlagAddCenterDialogForUnifie
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x480d2b	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x493bfd	FPS	averageFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x494123	FPS	sumFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x494131	FPS	sumFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4942db	renderStepped	_renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x49432c	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x494382	FPS	averageFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4943bd	FPS	averageFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4943d1	Fps	eFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4944ff	RenderStepped	disconnectUnusedRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x494603	FPS	SharedFlags#GetFFlagAXFPSEventStreamAndCounters
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x494621	FPS	SharedFlags#GetFFlagAXFPSEventStreamAndCounters
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x494635	FPS	SharedFlags#GetFFlagAXFPSEventStreamAndCounters
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x49465b	FPS	sendFPSStat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4946e1	FPS	standardDeviationFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4973e8	FPS	Stat to track FPS metrics.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x49745b	FPS	robloxFPSMetrics
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x49747c	FPS	robloxFPSMetrics
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x49fa29	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4dd802	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4f94b1	Heartbeat	createMomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x4f9b26	Heartbeat	FFlagMomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x502a83	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x517683	Heartbeat	createMomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x517ca8	Heartbeat	FFlagMomentsSessionHeartbeat'FFlagMomentsPassFeedItemIdToBackendApis
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x529c5f	Heartbeat	FFlagMomentsSessionHeartbeat"FFlagMomentsUploadOutcomeTelemetry!FFlagMomentsContentStatsTelemetry'FFlagMomen
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x52af3f	Heartbeat	createMomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x52b031	Heartbeat	reportMomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x52b5ac	Heartbeat	reportMomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x52b5ca	Heartbeat	reportMomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x52f6d7	Heartbeat	MomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x530126	Heartbeat	MomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x530141	heartbeat	MomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x53019b	heartbeat	 emitted while a Moments session is active; multiply the per-second rate by the heartbeat interval to estimate concurrent sessions (CCU).
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x533026	Heartbeat	MomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x533044	Heartbeat	MomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x53738a	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x53e931	Heartbeat	MomentsSessionHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x546123	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x54a2f4	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x54d494	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x5579a4	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x55acec	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x58c422	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x59cc17	heartbeat	PendingTevent=poll localId={} attempt={} pcallSuccess=true status={} assetId={} heartbeat={}Tevent=poll localId={} attempt={} pcallSuccess=false status=pcall_error error
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x5c10f2	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x5ca45b	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x6228f5	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x62595a	renderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x625972	RenderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x625b87	renderStepped	renderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x631cc2	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x6356ce	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x6a1707	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x6fa8bc	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x94aff6	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x954e66	Framerate	setmetatable)isSettingFramerateThrottleAllowedByPolicy
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x954e92	Framerate	setmetatable)isSettingFramerateThrottleAllowedByPolicy
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x954eba	Framerate	setThrottleFramerateEnabled'__setRunServiceThrottleFramerateEnabled
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x954fa1	Framerate	preferredFramerateThrottling
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x954fec	Framerate	erredFramerateThrottling
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x955019	Framerate	reportVideoEnd,setIsSettingFramerateThrottleAllowedByPolicy
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x957079	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x974ea2	heartbeat	heartbeatConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x974eb6	RenderStepped	heartbeatConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x980d59	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9b16bb	Heartbeat	pageHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9b1940	Heartbeat	UpdateHeartbeatObject
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9b36f8	Heartbeat	UpdateHeartbeatObject
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9b370e	Heartbeat	UpdateHeartbeatObject
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9b50cf	heartbeat	heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9b50dd	Heartbeat	heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9e2d36	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9e94d0	renderStepped	renderSteppedCallback
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x9e9770	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xba00e4	FPS	averageFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xba434f	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xc216be	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xd6a45d	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xdac220	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xde5ad3	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xe07a68	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xe35d81	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xe4bd29	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xe588cb	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfbbf14	renderStepped	_renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfbbfd8	renderStepped	renderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfc3747	renderStepped	renderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfe9bff	heartbeat	heartbeatCount
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfea302	Heartbeat	tests_skipHeartbeatCheck
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfea3d6	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfea3e8	heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xfea70f	Heartbeat	StopBubbleChatReactWarning ExperienceChatHeartbeatIncrement
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0xffbbb7	Heartbeat	EnableDarkerShimmerTransparency$ExpChatMicActivityHeartbeatIncrement
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1031a0d	Heartbeat	testHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1031a17	Heartbeat	testHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x10ca1c0	renderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x10ca1d8	RenderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x10ca3e0	renderStepped	renderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x10d4785	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x10d47a4	FPS	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x10f9b77	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x11950af	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x12dba3b	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x12dd4eb	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x12de206	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1355bed	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x13b37d6	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x145f2ea	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x14fec41	FPS	emitFPSMetrics
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x14feda3	FPS	game#ProductPurchaseContainerFPSDuration
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x152722e	HEARTBEAT	NewInstruction!HEARTBEAT_NOTIFICATIONS_NAMESPACE
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x152726e	HEARTBEAT	NewInstruction!HEARTBEAT_NOTIFICATIONS_NAMESPACE
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15272b5	HEARTBEAT	ications+HEARTBEAT_NOTIFICATION_TYPE_NEW_INSTRUCTION
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15272de	Heartbeat	HEARTBEAT_CONSECUTIVE_FAILURE
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x153cec0	FPS	rmanceTrackerEventStream,GetFFlagEnableNavigationPerformanceIntervals#GetFFlagAXFPSEventStreamAndCounters LuaAppScrollTelemetryIntegration%FFlagLuaAppScrollTelemet
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1549160	FPS	oductInfoEDP0FFlagAddPerformanceMetricsToUnifiedPurchaseModal$FIntLegacyPurchaseFPSTrackingTimeout FFlagEnableNotificationsDeeplink
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1585490	FPS	AXFPSEventStreamAndCounters
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1599383	heartbeat	heartbeatFrameMarker
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15993a2	Heartbeat	heartbeatFrameMarker
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15993e5	FrameRate	targetMsByHeartbeatDelta
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15993f6	FrameRate	desiredFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1599476	Heartbeat	LuaAppSchedulerDeferredWork#LuaAppSchedulerHeartbeatFrameMarker'LuaAppSchedulerTargetMsByHeartbeatDelta%LuaAppSchedulerNumberOfLookb
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15994a4	Heartbeat	edulerDeferredWork#LuaAppSchedulerHeartbeatFrameMarker'LuaAppSchedulerTargetMsByHeartbeatDelta%LuaAppSchedulerNumberOfLookbackFrames$LuaAppSchedulerLookbackUseRingBuffer
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1599514	FrameRate	LuaAppSchedulerDesiredFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1599534	FrameRate	LuaAppSchedulerDesiredFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x159958c	Heartbeat	LuaInExpSchedulerDeferredWork%LuaInExpSchedulerHeartbeatFrameMarker)LuaInExpSchedulerTargetMsByHeartbeatDelta'LuaInExpSchedulerNumberOfL
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15995bc	Heartbeat	erDeferredWork%LuaInExpSchedulerHeartbeatFrameMarker)LuaInExpSchedulerTargetMsByHeartbeatDelta'LuaInExpSchedulerNumberOfLookbackFrames&LuaInExpSchedulerLookbackUseRingBu
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1599632	FrameRate	OfLookbackFrames&LuaInExpSchedulerLookbackUseRingBuffer!LuaInExpSchedulerDesiredFrameRate!LuaInExpSchedulerMinimumFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1599654	FrameRate	LookbackUseRingBuffer!LuaInExpSchedulerDesiredFrameRate!LuaInExpSchedulerMinimumFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15b20d0	Heartbeat	onHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15b20da	Heartbeat	onHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15fa85e	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x15ff241	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1606930	HeartBeat	onHeartBeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1606977	Heartbeat	onHeartBeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x16086ed	FPS	useIsFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1608a9e	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1608af4	FPS	isFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x160941b	FPS	isFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1609442	FPS	isFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1647987	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x166c256	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1683c8b	Framerate	ThrottleFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1683ca0	Framerate	ThrottleFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1720984	RenderStepped	onRenderSteppedLast
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1720a57	FPS	isFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x17253bb	FPS	useIsFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x17e0f6f	heartbeat	heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x18be1b6	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x18e6866	RenderStepped	RenderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x18e68aa	RenderStepped	RenderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1c1b897	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1c1bf06	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1c73323	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1c77c7c	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1cba10d	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1cbafd7	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1cbcc0a	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x1cc0a35	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x20d83ec	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x210de2b	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x210de44	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x210e89e	RenderStepped	subscribeToRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2110987	renderStepped	__renderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x21109a0	RenderStepped	__renderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2140112	vsync	 .etsi.iptvsync+xml
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2140124	vsync	 .etsi.iptvsync+xml
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x215c41a	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182134	FrameRate	unstable_forceFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x21827d3	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x21827eb	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182823	FrameRate	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182834	FrameRate	createHeartbeatConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x218284b	heartbeat	desiredFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x218286a	Heartbeat	desiredFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182904	FrameRate	warnoforceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x218293e	frame rate	warnoforceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x218295a	fps	ate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x218297a	FrameRate	 0 and 125, forcing frame rates higher than 125 fps is not supported
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182b26	FrameRate	ReactSchedulerDesiredFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182b41	FrameRate	ReactSchedulerDesiredFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182b99	Heartbeat	createGetFFlag ReactSchedulerEnableDeferredWork*ReactSchedulerSetFrameMarkerOnHeartbeatEnd)ReactSchedulerSetTargetMsByHeartbeatDelta$ReactSchedulerNumberOfLookbackFram
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2182bc1	Heartbeat	erredWork*ReactSchedulerSetFrameMarkerOnHeartbeatEnd)ReactSchedulerSetTargetMsByHeartbeatDelta$ReactSchedulerNumberOfLookbackFrames#ReactSchedulerLookbackUseRingBuffer
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x21841a0	FrameRate	forceFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2185423	FrameRate	forceFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2185629	FrameRate	unstable_forceFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x254bc05	renderStepped	renderSteppedCallback
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x254bcca	renderStepped	renderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x258cb3b	FPS	UGCValidateMaxAnimationFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x25a3b2e	FPS	flags(getFFlagUGCValidateDuplicatesInAnimation!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidateCurveAnimFinalFrameBug
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x25d0846	FPS	absJframeDelta should be calculated as 1 / getFIntUGCValidateMaxAnimationFPS()
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x25d0db0	fps	s Curve %*.%*.%* with keys that are too close together in time for a maximum %* fps animation. Please fix the animation.eCurveAnimation contains Curve %*.%*.%* wit
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x25d11fe	FPS	sInAnimation$getFFlagUGCValidateMaxTotalInstances!getFIntUGCValidateMaxAnimationFPS+getFIntUGCValidateMaxMarkerCurveValueLength0GetFStringUGCValidateMaxAnimationMo
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26120dc	FPS	ightTol)GetFStringUGCValidationMaxAnimationBounds!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidationAnimationPackSupport
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x261427a	FPS	flags!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidationAnimationPackSupport,GetFStringUGCValidateMaxJointRotation
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2617aaf	FPS	maxFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2617bc7	FPS	nLength)GetFStringUGCValidateFrameDeltaKeyTimeTol!getFIntUGCValidateMaxAnimationFPS+getFIntUGCValidateMaxMarkerCurveValueLength7getFFlagUGCValidateRestrictNumMarke
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x261a31c	FPS	rveAnim)getFFlagUGCValidateCurveAnimRotationSpeed!getFIntUGCValidateMaxAnimationFPS6getFIntUGCValidationMaxAnimationRotationSpeedPerSecond)getFFlagUGCValidationAni
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x261ab12	FPS	Message)GetFStringUGCValidationMaxAnimationDeltas!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidationAnimationPackSupport
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2649125	FPS	rve {curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.hCurveAnimation contains Curve {curveP
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x264912a	fps	curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.hCurveAnimation contains Curve {curvePath} 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x269188e	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2694692	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26974f4	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26f54b9	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26f5592	RenderStepped	useRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26fc0b5	Heartbeat	HeartbeatConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x26fc123	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2737c55	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2737c67	heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x275e1ea	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x275eee1	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27682fa	fps	measureFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x276830a	FPS	measureFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x276c829	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27ea6b3	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27ea6d9	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27ea728	heartbeat	rHeartbeatToSettle
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27ea73e	Heartbeat	heartbeatSettled
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27eb125	heartbeat	heartbeat%*Settled notAcceptedWithinThreeHeartbeats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27eb14e	Heartbeat	heartbeat%*Settled notAcceptedWithinThreeHeartbeats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27eb159	heartbeat	heartbeat%*Settled notAcceptedWithinThreeHeartbeats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27eb2e3	Heartbeat	Compares wrapped content and measured-host sizes before and after Roblox layout Heartbeats.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27eb319	heartbeat	e and after Roblox layout Heartbeats.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x27eb334	Heartbeat	heartbeatObservations
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2814edb	Heartbeat	uniquePendingHeartbeats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2815068	Heartbeat	Wait1scheduled measurement did not settle on Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2815079	Heartbeat	Wait1scheduled measurement did not settle on Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28150aa	heartbeat	not settle on Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28150fd	Heartbeat	rtbeat-observationPObserves one scheduled Roblox measurement after its required Heartbeat boundary.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2815111	heartbeat	bserves one scheduled Roblox measurement after its required Heartbeat boundary.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2815160	Heartbeat	heartbeatMeasurementObservation
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2815188	Heartbeat	pendingHeartbeats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x281519d	Heartbeat	pendingHeartbeats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x281e9f2	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x282619e	FrameRate	warn+FrameRateLogger.beginScroll not implemented
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28261d6	FrameRate	warn+FrameRateLogger.beginScroll not implemented
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28933fd	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a3b89	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a61df	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a88b9	Framerate	FramerateCap
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a88c6	framerate	FramerateCap
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8bba	Framerate	enabled1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8c00	Framerate	gs.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8c20	Framerate	find=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8c32	Framerate	ttingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8c44	Framerate	ings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8e63	Framerate	FramerateCaps+CoreScripts.InGameMenu.GameSettings.Default9Feature.SettingsHub.GameSetting
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8ebe	Framerate	ps+CoreScripts.InGameMenu.GameSettings.Default9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8ee8	Framerate	ault9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28a8f16	Framerate	GetDefaultFramerateCap/Feature.SettingsHub.GameSettings.FramerateEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28ae718	Framerate	GameBasicSettingsFramerateCap
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28aebff	FPS	EraseFPSFromDefaultSetting
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x28de212	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2908810	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2923713	Framerate	FramerateCap
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2928010	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2954842	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x296b858	RenderStepped	stopRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x296b989	RenderStepped	startRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x296c019	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x296c023	RenderStepped	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2980a81	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x298236a	RefreshRate	QuestDisplayRefreshRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x298d261	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2990cc6	FPS	isFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2990cda	FPS	isFPSAtTarget
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2990dde	RenderStepped	onRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x299107b	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29a1596	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29a4e77	renderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29a5049	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29ac425	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29b572b	RenderStepped	RenderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29b5775	RenderStepped	RenderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29d909d	FPS	ChatAnimationFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29d9234	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29e719c	FPS	ChatAnimationFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x29f6590	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab4f32	Heartbeat	reportHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab4f51	Heartbeat	reportHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab5102	Heartbeat	Flags8GetFIntFacialAnimationStreamingHeartbeatStatsIntervalSec&RbxAnalyticsServiceExposePlaySessionId
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab5183	Heartbeat	AvatarChatHeartbeatStats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab5edd	Heartbeat	LoggingProtocol5AvatarChatHeartbeatStatsEventThrottleHundrethsPercent
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab5f2b	Heartbeat	atHeartbeatStatsEventThrottleHundrethsPercent
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab5f8b	heartbeat	description4Report Avatar Chat session heartbeat to EventIngest.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ab6002	Heartbeat	/roblox.atlassian.net/wiki/spaces/DA/pages/2025358355/Logging+Specs+Avatar+Chat+Heartbeat+Stats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ac2900	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b05c85	RenderStepped	onRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b05db3	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b06d6f	RenderStepped	onRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b06d7d	RenderStepped	onRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b077c4	RenderStepped	onRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b077d2	RenderStepped	onRenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b12587	Heartbeat	game1FacialAnimationStreamingHeartbeatStatsIntervalSec
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b1725b	renderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b174a1	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2b46c16	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2bc5a98	FPS	 {maxFPS} 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c1dded	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c1de13	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c1de35	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c1de5a	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c1df95	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c1e0ea	Framerate	.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c54425	FPS	r eine Animation mit maximal {maxFPS} Ego-Shootern. Bitte korrigiere die Animation.6Common.UGCValidation.ErrorLabel.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c9ee4d	FPS	FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c9ee73	Framerate	FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c9ee96	FPS	FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c9eebb	Framerate	ettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c9efd7	Framerate	Maximale Bildfrequenz1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2c9f0e2	Framerate	ldschirms sind, werden nicht angezeigt.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2cd1ed3	FPS	rve {curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.6Common.UGCValidation.ErrorLabel.Curve
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2cd1ed8	fps	curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.6Common.UGCValidation.ErrorLabel.CurveAnim_
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d166f5	FPS	Default ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d1671b	Framerate	Default ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d1673d	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d16762	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d16843	Frame Rate	Maximum Frame Rate1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d16876	Framerate	Maximum Frame Rate1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d1688d	frame rate	ximum Frame Rate1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d168b6	frame rate	Settings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d168f7	refresh rate	meplay. Higher frame rates consume more power, and frames beyond your display's refresh rate won't be shown.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d1693c	Framerate	 display's refresh rate won't be shown.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d48330	FPS	n de {maxFPS} fps como m
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d48335	fps	n de {maxFPS} fps como m
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d91caa	FPS	Por defecto ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d91cd0	Framerate	Por defecto ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d91cf2	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d91d17	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d91e4c	Framerate	xima de fotogramas1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2d91f67	Framerate	n de tu pantalla.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2dc4d2c	FPS	es dans le temps pour une animation d'au maximum {maxFPS}
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e10afa	FPS	faut ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e10b20	Framerate	faut ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e10b42	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e10b67	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e10ca6	Framerate	quence d'images maximale1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e10db2	Framerate	es.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e48153	FPS	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2e48158	fps	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ebde0d	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ebde33	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ebde55	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ebde7a	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ebdfe6	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ebe1e5	Framerate	.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description3
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2efb33b	FPS	y yang jarak waktunya terlalu dekat untuk animasi dengan kecepatan maksimum {maxFPS} fps. Perbaiki animasi.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooClose
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2efb340	fps	g jarak waktunya terlalu dekat untuk animasi dengan kecepatan maksimum {maxFPS} fps. Perbaiki animasi.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooClose
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42a07	FPS	Default ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42a2d	Framerate	Default ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42a4f	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42a74	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42b55	Frame Rate	Frame Rate Maksimum1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42b91	Framerate	Frame Rate Maksimum1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42ba6	frame rate	rame Rate Maksimum1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42bd3	Frame rate	ttings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f42c7e	Framerate	n refresh layar tidak akan ditampilkan.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f741f3	FPS	con chiavi troppo ravvicinate nel tempo per un'animazione con un massimo di {maxFPS} fps. Correggi l'animazione.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooC
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2f741f8	fps	hiavi troppo ravvicinate nel tempo per un'animazione con un massimo di {maxFPS} fps. Correggi l'animazione.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooClose
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe19f	FPS	Predefinito ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe1c5	Framerate	Predefinito ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe1e7	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe20c	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe336	Framerate	Frequenza fotogrammi massima1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe34b	frame rate	fotogrammi massima1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe375	frame rate	eSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2fbe419	Framerate	mento del display non saranno mostrati.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ff2168	FPS	{maxFPS}fps
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x2ff216c	fps	{maxFPS}fps
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3044ddf	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3044e05	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3044e27	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3044e4c	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3044f7e	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30450b1	Framerate	=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x307ad44	FPS	 {maxFPS}FPS 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x307ad48	FPS	 {maxFPS}FPS 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30c782d	FPS	({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30c7853	Framerate	({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30c7875	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30c789a	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30c79b8	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30c7add	Framerate	.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x30fba28	FPS	cej {maxFPS}. Popraw animacj
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3146e5b	FPS	lnie ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3146e81	Framerate	lnie ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3146ea3	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3146ec8	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3147016	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3147126	Framerate	wietlane.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31793f5	FPS	ximo {maxFPS} fps. Corrija a anima
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31793fa	fps	ximo {maxFPS} fps. Corrija a anima
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c3072	FPS	o ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c3098	Framerate	o ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c30ba	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c30df	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c31f3	FPS	xima (FPS)1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c3220	Framerate	xima (FPS)1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c3247	FPS	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x31c3316	Framerate	o mostradas.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x322518f	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32251b5	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32251d7	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32251fc	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3225345	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32254b2	Framerate	.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3251889	FPS	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x325188e	fps	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32c5abd	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32c5ae3	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32c5b05	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32c5b2a	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32c5c7c	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x32c5e71	Framerate	=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3304500	FPS	CurveAnimation, maksimum {maxFPS} fps'lik animasyon i
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3304505	fps	CurveAnimation, maksimum {maxFPS} fps'lik animasyon i
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x334e944	FPS	lan ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x334e96a	Framerate	lan ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x334e98c	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x334e9b1	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x334eaef	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x334ebd2	Framerate	sterilmez.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33818be	FPS	a {maxFPS} fps. Vui l
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33818c3	fps	a {maxFPS} fps. Vui l
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33d3f47	FPS	nh ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33d3f6d	Framerate	nh ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33d3f8f	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33d3fb4	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33d40ea	Framerate	a1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x33d4229	Framerate	.=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3407940	FPS	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3407945	fps	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x344b512	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x344b538	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x344b55a	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x344b57f	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x344b699	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x344b75a	Framerate	=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x347b6d0	FPS	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x347b6d5	fps	 {maxFPS} fps 
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x34bf003	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x34bf029	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x34bf04b	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x34bf070	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x34bf18a	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x34bf24b	Framerate	=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x34ef1ca	FPS	 {maxFPS}
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35327ac	FPS	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35327d2	Framerate	 ({Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35327f4	FPS	Frames} FPS)9Feature.SettingsHub.GameSettings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3532819	Framerate	Settings.FramerateCapDefaultEntry
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x353293b	Framerate	1Feature.SettingsHub.GameSettings.MaximumFramerate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35329fc	Framerate	=Feature.SettingsHub.GameSettings.MaximumFramerate.Description
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x355d8a5	Fps	getFps
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x355d8a9	fps	getFps
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x355dc38	FrameRate	FrameRateManager
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x355ed9c	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3562df3	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35a9443	renderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35a966f	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35ac5db	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35ad00c	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35b7476	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35b9a31	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35c6559	renderStepped	renderSteppedConnection
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35c6780	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35da8de	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35efcec	Framerate	MoreFramerateOptions
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x35efd0c	Framerate	MoreFramerateOptions
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3618b2b	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3630974	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36320ea	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3654593	Heartbeat	UpdateHeartbeatObject
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36545a9	Heartbeat	UpdateHeartbeatObject
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3654608	Heartbeat	reportPageHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3654869	Heartbeat	pageHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x366495f	Heartbeat	reportPageHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3665457	Heartbeat	PageHeartbeatTimer
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3668c49	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x368206c	60hz	yellow, or green corresponding to their simulation timestep of 240hz, 120hz, or 60hz.
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36a9405	frameRate	frameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36adbd2	FrameRate	RCCProfilerRecordFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36af862	FrameRate	RCCProfilerRecordFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36af910	FrameRate	onFocusLostFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36af95a	frameRate	usLostFrameRate
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36afa1c	FPS	LabelFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36afa20	FPS	LabelFPS
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36b90bc	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36b90c6	heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36ceac1	Heartbeat	dTime":1704850751198,"Categories":[{"Name":"Parallel Luau","NodeId":4},{"Name":"Heartbeat","NodeId":1}],"Nodes":[{"TotalDuration":2530,"FunctionIds":[1],"NodeIds":[2]},{
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x36ec15d	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3719c65	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x3719c6f	heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x373c808	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x373d671	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x374aef7	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37a887d	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37ad8be	Heartbeat	FacialAnimationStreaming&FacialAnimationStreamingHeartbeatStats
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37b9c68	Heartbeat	Heartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37cf098	RenderStepped	RenderStepped
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37d72d7	HEARTBEAT	SIGNALR_TYPE_NEW_INSTRUCTION!HEARTBEAT_NOTIFICATIONS_NAMESPACE
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37d72f9	HEARTBEAT	SIGNALR_TYPE_NEW_INSTRUCTION!HEARTBEAT_NOTIFICATIONS_NAMESPACE
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37d7368	heartbeat	notifications.ScreenTimeInGame empty heartbeat notifications+HEARTBEAT_NOTIFICATION_TYPE_NEW_INSTRUCTION
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37d7380	HEARTBEAT	notifications.ScreenTimeInGame empty heartbeat notifications+HEARTBEAT_NOTIFICATION_TYPE_NEW_INSTRUCTION
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37db0d4	Heartbeat	onHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37db116	Heartbeat	onHeartbeat
+InExperience.rbxm	ModuleScript	Source	type=0x1d	off=0x37e1fba	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x81456	heartbeat	heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x15e69d	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x186d4d	RenderStepped	RenderSteppedConnection
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x186d91	RenderStepped	RenderSteppedConnection
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x4bbd7e	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x4bc3ed	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x51380a	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x518163	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x55a5f4	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x55b4be	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x55d0f1	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x560f1c	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9788d3	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9ae312	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9ae32b	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9aed85	RenderStepped	subscribeToRenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9b0e6e	renderStepped	__renderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9b0e87	RenderStepped	__renderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9e05f9	vsync	 .etsi.iptvsync+xml
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9e060b	vsync	 .etsi.iptvsync+xml
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x9fc901	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa2261b	FrameRate	unstable_forceFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22cba	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22cd2	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22d0a	FrameRate	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22d1b	FrameRate	createHeartbeatConnection
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22d32	heartbeat	desiredFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22d51	Heartbeat	desiredFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22deb	FrameRate	warnoforceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22e25	frame rate	warnoforceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22e41	fps	ate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa22e61	FrameRate	 0 and 125, forcing frame rates higher than 125 fps is not supported
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa2300d	FrameRate	ReactSchedulerDesiredFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa23028	FrameRate	ReactSchedulerDesiredFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa23080	Heartbeat	createGetFFlag ReactSchedulerEnableDeferredWork*ReactSchedulerSetFrameMarkerOnHeartbeatEnd)ReactSchedulerSetTargetMsByHeartbeatDelta$ReactSchedulerNumberOfLookbackFram
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa230a8	Heartbeat	erredWork*ReactSchedulerSetFrameMarkerOnHeartbeatEnd)ReactSchedulerSetTargetMsByHeartbeatDelta$ReactSchedulerNumberOfLookbackFrames#ReactSchedulerLookbackUseRingBuffer
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa24687	FrameRate	forceFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa2590a	FrameRate	forceFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xa25b10	FrameRate	unstable_forceFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xdec0ec	renderStepped	renderSteppedCallback
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xdec1b1	renderStepped	renderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xe2d022	FPS	UGCValidateMaxAnimationFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xe44015	FPS	flags(getFFlagUGCValidateDuplicatesInAnimation!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidateCurveAnimFinalFrameBug
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xe70d2d	FPS	absJframeDelta should be calculated as 1 / getFIntUGCValidateMaxAnimationFPS()
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xe71297	fps	s Curve %*.%*.%* with keys that are too close together in time for a maximum %* fps animation. Please fix the animation.eCurveAnimation contains Curve %*.%*.%* wit
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xe716e5	FPS	sInAnimation$getFFlagUGCValidateMaxTotalInstances!getFIntUGCValidateMaxAnimationFPS+getFIntUGCValidateMaxMarkerCurveValueLength0GetFStringUGCValidateMaxAnimationMo
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xeb25c3	FPS	ightTol)GetFStringUGCValidationMaxAnimationBounds!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidationAnimationPackSupport
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xeb4761	FPS	flags!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidationAnimationPackSupport,GetFStringUGCValidateMaxJointRotation
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xeb7f96	FPS	maxFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xeb80ae	FPS	nLength)GetFStringUGCValidateFrameDeltaKeyTimeTol!getFIntUGCValidateMaxAnimationFPS+getFIntUGCValidateMaxMarkerCurveValueLength7getFFlagUGCValidateRestrictNumMarke
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xeba803	FPS	rveAnim)getFFlagUGCValidateCurveAnimRotationSpeed!getFIntUGCValidateMaxAnimationFPS6getFIntUGCValidationMaxAnimationRotationSpeedPerSecond)getFFlagUGCValidationAni
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xebaff9	FPS	Message)GetFStringUGCValidationMaxAnimationDeltas!getFIntUGCValidateMaxAnimationFPS)getFFlagUGCValidationAnimationPackSupport
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xee960c	FPS	rve {curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.hCurveAnimation contains Curve {curveP
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xee9611	fps	curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.hCurveAnimation contains Curve {curvePath} 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xf31d75	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xf34b79	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xf379db	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xf959a0	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xf95a79	RenderStepped	useRenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xf9c59c	Heartbeat	HeartbeatConnection
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xf9c60a	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xfd813c	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xfd814e	heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xffe6d1	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0xfff3c8	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10087e1	fps	measureFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10087f1	FPS	measureFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x100cd10	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108ab9a	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108abc0	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108ac0f	heartbeat	rHeartbeatToSettle
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108ac25	Heartbeat	heartbeatSettled
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108b60c	heartbeat	heartbeat%*Settled notAcceptedWithinThreeHeartbeats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108b635	Heartbeat	heartbeat%*Settled notAcceptedWithinThreeHeartbeats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108b640	heartbeat	heartbeat%*Settled notAcceptedWithinThreeHeartbeats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108b7ca	Heartbeat	Compares wrapped content and measured-host sizes before and after Roblox layout Heartbeats.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108b800	heartbeat	e and after Roblox layout Heartbeats.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x108b81b	Heartbeat	heartbeatObservations
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b53c2	Heartbeat	uniquePendingHeartbeats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b554f	Heartbeat	Wait1scheduled measurement did not settle on Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b5560	Heartbeat	Wait1scheduled measurement did not settle on Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b5591	heartbeat	not settle on Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b55e4	Heartbeat	rtbeat-observationPObserves one scheduled Roblox measurement after its required Heartbeat boundary.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b55f8	heartbeat	bserves one scheduled Roblox measurement after its required Heartbeat boundary.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b5647	Heartbeat	heartbeatMeasurementObservation
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b566f	Heartbeat	pendingHeartbeats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10b5684	Heartbeat	pendingHeartbeats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10beed9	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10c6685	FrameRate	warn+FrameRateLogger.beginScroll not implemented
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10c66bd	FrameRate	warn+FrameRateLogger.beginScroll not implemented
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x10fdac8	FPS	AXFPSEventStreamAndCounters
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x110251b	heartbeat	heartbeatFrameMarker
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x110253a	Heartbeat	heartbeatFrameMarker
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x110257d	FrameRate	targetMsByHeartbeatDelta
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x110258e	FrameRate	desiredFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11025fb	Heartbeat	LuaAppSchedulerDeferredWork#LuaAppSchedulerHeartbeatFrameMarker'LuaAppSchedulerTargetMsByHeartbeatDelta%LuaAppSchedulerNumberOfLookb
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1102629	Heartbeat	edulerDeferredWork#LuaAppSchedulerHeartbeatFrameMarker'LuaAppSchedulerTargetMsByHeartbeatDelta%LuaAppSchedulerNumberOfLookbackFrames$LuaAppSchedulerLookbackUseRingBuffer
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1102699	FrameRate	LuaAppSchedulerDesiredFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11026b9	FrameRate	LuaAppSchedulerDesiredFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1102711	Heartbeat	LuaInExpSchedulerDeferredWork%LuaInExpSchedulerHeartbeatFrameMarker)LuaInExpSchedulerTargetMsByHeartbeatDelta'LuaInExpSchedulerNumberOfL
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1102741	Heartbeat	erDeferredWork%LuaInExpSchedulerHeartbeatFrameMarker)LuaInExpSchedulerTargetMsByHeartbeatDelta'LuaInExpSchedulerNumberOfLookbackFrames&LuaInExpSchedulerLookbackUseRingBu
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11027b7	FrameRate	OfLookbackFrames&LuaInExpSchedulerLookbackUseRingBuffer!LuaInExpSchedulerDesiredFrameRate!LuaInExpSchedulerMinimumFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11027d9	FrameRate	LookbackUseRingBuffer!LuaInExpSchedulerDesiredFrameRate!LuaInExpSchedulerMinimumFrameRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1109f1c	FPS	rmanceTrackerEventStream,GetFFlagEnableNavigationPerformanceIntervals#GetFFlagAXFPSEventStreamAndCounters LuaAppScrollTelemetryIntegration%FFlagLuaAppScrollTelemet
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11160cd	FPS	oductInfoEDP0FFlagAddPerformanceMetricsToUnifiedPurchaseModal$FIntLegacyPurchaseFPSTrackingTimeout FFlagEnableNotificationsDeeplink
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1125a95	Heartbeat	UpdateHeartbeatObject
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1125aab	Heartbeat	UpdateHeartbeatObject
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1125ccf	heartbeat	heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1125cdd	Heartbeat	heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1130295	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1131867	Heartbeat	onHeartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1131871	Heartbeat	onHeartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x113575d	FPS	isFPSAtTarget
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1135782	FPS	isFPSAtTarget
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1138bbc	Framerate	ThrottleFramerate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1138bd1	Framerate	ThrottleFramerate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x114976a	renderStepped	renderSteppedCallback
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1178eb5	FPS	Stat to track FPS metrics.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1178ee1	FPS	Stat to track FPS metrics.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1178ef0	FPS	Stat to track FPS metrics.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1178f29	FPS	robloxFPSMetrics
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1178f37	FPS	sendFPSStat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1179096	renderStepped	_renderSteppedConnection
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1179117	FPS	averageFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1179143	FPS	averageFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x117914e	Fps	averageFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1179202	RenderStepped	disconnectUnusedRenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x117922b	FPS	disconnectUnusedRenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1179251	FPS	dRenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11792a3	FPS	standardDeviationFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1182164	FPS	aRS+LUAUFORGE_MODULE_GLOBALS_aRR_emitFPSMetrics+LUAUFORGE_MODULE_GLOBALS_aRR_emitTTIMetrics3LUAUFORGE_MODULE_GLOBALS_aRR
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11821e7	FPS	ics3LUAUFORGE_MODULE_GLOBALS_aRR_emitPerformanceMetrics#ProductPurchaseContainerFPSDuration
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11835f7	HeartBeat	onHeartBeat, cannot have a negative fadeIn/fadeOut time.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11aacd2	Framerate	videoDwellTaskHandles)isSettingFramerateThrottleAllowedByPolicy
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11aacfe	Framerate	videoDwellTaskHandles)isSettingFramerateThrottleAllowedByPolicy
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11aad26	Framerate	setThrottleFramerateEnabled'__setRunServiceThrottleFramerateEnabled
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11aaddc	Framerate	preferredFramerateThrottling
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11aae1a	Framerate	preferredFramerateThrottling
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11aae47	Framerate	reportVideoEnd,setIsSettingFramerateThrottleAllowedByPolicy
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11ec635	RenderStepped	onRenderSteppedLast
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11fce91	Heartbeat	MomentsSessionHeartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11fd5ad	heartbeat	Counts periodic heartbeats emitted while a Moments session is active; multiply the per-second rate by the
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11fd607	heartbeat	 emitted while a Moments session is active; multiply the per-second rate by the heartbeat interval to estimate concurrent sessions (CCU).
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11fdc07	Heartbeat	reportMomentsSessionHeartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x11fdd56	Heartbeat	createMomentsSessionHeartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12000e8	Heartbeat	FFlagMomentsSessionHeartbeat"FFlagMomentsUploadOutcomeTelemetry!FFlagMomentsContentStatsTelemetry'FFlagMomen
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12099e6	renderStepped	renderSteppedConnection
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1209a89	renderStepped	renderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12132c5	FPS	TopLevelFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1213302	FPS	TopLevelFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x1230b9a	heartbeat	PendingTevent=poll localId={} attempt={} pcallSuccess=true status={} assetId={} heartbeat={}Tevent=poll localId={} attempt={} pcallSuccess=false status=pcall_error error
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12484fe	Framerate	getThrottleFramerateEnabled
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x124871e	Framerate	BackgroundDisplay PPVBackgroundUnthrottleProfileV2&IsGetThrottleFramerateEnabledAvailable
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x125466b	FPS	AXFPSDurationForCatSubCat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x128b5bf	fps	8514040;sports,95472945314001;strategy,111044680425731;survival,133883166686292;fps,72055167390311
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x128b806	FPS	raphic/Auth/SimulationBackground.png<rbxasset://textures/ui/LuaApp/graphic/Auth/FPSBackground.pngHrbxasset://textures/ui/LuaApp/graphic/Auth/SportsAndRacingBackgro
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12a08b3	FPS	ScrollingPerfTrackerTargetFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12a390a	RenderStepped	onRenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12aafd4	FPS	isRightBumper"AXAppSystemBarEnableTelemtryForFPS(AXAppSystemBarEnableTelemtryForFPSForAll
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12aaff7	FPS	isRightBumper"AXAppSystemBarEnableTelemtryForFPS(AXAppSystemBarEnableTelemtryForFPSForAll
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12ab3b6	Heartbeat	reportPageHeartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12ab42c	Heartbeat	PageHeartbeatTimer
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12afa66	Heartbeat	_tokenBucketRateLimiter"_rateLimitHeartbeatConnectionToken
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0682	Framerate	throttleFramerate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b09ca	heartbeat	getEpochMs#%suser-heartbeats-api/action-report
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0a73	heartbeat	%suser-heartbeats-api/pulse
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0b1e	Heartbeat	_rollout*UserHeartbeatsActionReportRolloutPerMyriad#UserHeartbeatsPulseRolloutPerMyriad
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0b49	Heartbeat	_rollout*UserHeartbeatsActionReportRolloutPerMyriad#UserHeartbeatsPulseRolloutPerMyriad
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0bb1	heartbeat	heartbeatCallback
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0be6	Heartbeat	heartbeatCallback
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0cd3	Heartbeat	previousActiveState"UserHeartbeatsPulseIntervalSeconds"UserHeartbeatsInExperienceTracking
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0cf6	Heartbeat	previousActiveState"UserHeartbeatsPulseIntervalSeconds"UserHeartbeatsInExperienceTracking
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b0d19	Heartbeat	State"UserHeartbeatsPulseIntervalSeconds"UserHeartbeatsInExperienceTracking
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b24fd	HEARTBEAT	NewInstruction!HEARTBEAT_NOTIFICATIONS_NAMESPACE
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b253d	HEARTBEAT	NewInstruction!HEARTBEAT_NOTIFICATIONS_NAMESPACE
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b2584	HEARTBEAT	ications+HEARTBEAT_NOTIFICATION_TYPE_NEW_INSTRUCTION
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b25ad	Heartbeat	HEARTBEAT_CONSECUTIVE_FAILURE
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b7243	heartbeat	heartbeatConsecutiveFailure/showScreenTimeHeartbeatConsecutiveFailurePrompt
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b726d	Heartbeat	heartbeatConsecutiveFailure/showScreenTimeHeartbeatConsecutiveFailurePrompt
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b73b9	heartbeat	requestInstructions5ScreenTimeEventReceiver empty heartbeat notifications9ScreenTime-LogoutAfterConsecutiveHeartbeatFailure-FromApp
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b73f2	Heartbeat	imeEventReceiver empty heartbeat notifications9ScreenTime-LogoutAfterConsecutiveHeartbeatFailure-FromApp
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b742f	heartbeat	outAfterConsecutiveHeartbeatFailure-FromApp
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b7459	heartbeat	toastDismissed)heartbeatConsecutiveFailureLogoutCallback"heartbeatConsecutiveFailureMessage
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12b74b9	Heartbeat	prompt::Feature.Screentime.Description.HeartbeatConsecutiveFailure
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12bc1c4	FrameRate	FrameRateManager
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12bc3db	RefreshRate	QuestDisplayRefreshRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x12bc3f8	FPS	QuestDisplayRefreshRate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x230019e	RenderStepped	RenderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2317b7b	Framerate	getThrottleFramerate
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2317cbc	Heartbeat	Heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2349a4b	FPS	Fighting"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2349a4f	FPS	Fighting"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2354e2e	heartbeat	heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2354e78	Heartbeat	heartbeat
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2358049	FPS	ging8FFlagAXMigratePurchasePromptInteractiveToFocusNavigation$FIntLegacyPurchaseFPSTrackingTimeout
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x236a8bf	renderStepped	renderSteppedConnection
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x236b756	renderStepped	renderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x236b7a6	RenderStepped	renderStepped
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238bdb1	FPS	TopLevelFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238be56	FPS	trackTopLevelPageFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c226	FPS	AvatarExperienceFPSDuration#GetFFlagAXFPSEventStreamAndCounters
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c23c	FPS	AvatarExperienceFPSDuration#GetFFlagAXFPSEventStreamAndCounters
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c3ba	FrameRate	FrameRateManager%FrameRateManager not present in Stats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c3cb	FrameRate	FrameRateManager%FrameRateManager not present in Stats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c3f8	FPS	FrameRateManager%FrameRateManager not present in Stats
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c447	FPS	eFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c45b	FPS	AverageFPS:
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c479	FPS	AverageFPS:
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x238c54c	Framerate	setThrottleFramerateEnabled
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2a033de	FPS	 {maxFPS} 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2a4812f	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2a48152	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2a6814c	Heartbeat	.:Feature.Screentime.Description.HeartbeatConsecutiveFailure\
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2aa7e88	FPS	r eine Animation mit maximal {maxFPS} Ego-Shootern. Bitte korrigiere die Animation.6Common.UGCValidation.ErrorLabel.
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2ae2f26	FPS	Ego-Shooter"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2afe106	Heartbeat	 Fehler. Bitte versuche erneut, dich anzumelden.:Feature.Screentime.Description.HeartbeatConsecutiveFailure@Dadurch wird dein Bildschirmzeitlimit vor
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2b3a311	FPS	rve {curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.6Common.UGCValidation.ErrorLabel.Curve
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2b3a316	fps	curvePath} with keys that are too close together in time for a maximum {maxFPS} fps animation. Please fix the animation.6Common.UGCValidation.ErrorLabel.CurveAnim_
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2b6f82b	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2b6f84e	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2b8820e	Heartbeat	itDialog'Internal Error. Please try login again.:Feature.Screentime.Description.HeartbeatConsecutiveFailure/This extends your screen time limit temporarily8Feature.Scree
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2bc4bfd	FPS	n de {maxFPS} fps como m
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2bc4c02	fps	n de {maxFPS} fps como m
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2bfe1cb	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2bfe1ee	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2c1879e	Heartbeat	n.:Feature.Screentime.Description.HeartbeatConsecutiveFailure9Esto extiende temporalmente el tiempo l
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2c560b0	FPS	es dans le temps pour une animation d'au maximum {maxFPS}
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2c91340	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2c91363	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2cac79d	Heartbeat	essayer de se connecter.:Feature.Screentime.Description.HeartbeatConsecutiveFailureCCela permet de prolonger temporairement ta limite de temps d'
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2cf528e	FPS	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2cf5293	fps	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2d51296	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2d512b9	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2d7c5e6	Heartbeat	.:Feature.Screentime.Description.HeartbeatConsecutiveFailure
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2dbf6f0	FPS	y yang jarak waktunya terlalu dekat untuk animasi dengan kecepatan maksimum {maxFPS} fps. Perbaiki animasi.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooClose
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2dbf6f5	fps	g jarak waktunya terlalu dekat untuk animasi dengan kecepatan maksimum {maxFPS} fps. Perbaiki animasi.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooClose
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2df6ecc	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2df6eef	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2e10f0e	Heartbeat	timeLimitDialog Eror Internal. Coba log in lagi.:Feature.Screentime.Description.HeartbeatConsecutiveFailureBIni memperpanjang batas durasi pemakaian perangkat untuk seme
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2e4c827	FPS	con chiavi troppo ravvicinate nel tempo per un'animazione con un massimo di {maxFPS} fps. Correggi l'animazione.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooC
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2e4c82c	fps	hiavi troppo ravvicinate nel tempo per un'animazione con un massimo di {maxFPS} fps. Correggi l'animazione.6Common.UGCValidation.ErrorLabel.CurveAnim_KeysTooClose
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2e85e24	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2e85e47	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2ea0929	Heartbeat	 interno. Si prega di riprovare a fare il login.:Feature.Screentime.Description.HeartbeatConsecutiveFailureQQuesta operazione estende temporaneamente il limite di tempo 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2ee064c	FPS	{maxFPS}fps
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2ee0650	fps	{maxFPS}fps
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2f20dc1	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2f20de4	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2f3e7d3	Heartbeat	:Feature.Screentime.Description.HeartbeatConsecutiveFailure3
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2f7ddf8	FPS	 {maxFPS}FPS 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2f7ddfc	FPS	 {maxFPS}FPS 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2fb9b57	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2fb9b7a	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x2fd5266	Heartbeat	.:Feature.Screentime.Description.HeartbeatConsecutiveFailure:
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3012b80	FPS	cej {maxFPS}. Popraw animacj
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x304d33d	FPS	Strzelanki FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x304d360	FPS	Strzelanki FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3068a51	Heartbeat	 ponownie.:Feature.Screentime.Description.HeartbeatConsecutiveFailure0To tymczasowo wyd
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x30a4d2f	FPS	ximo {maxFPS} fps. Corrija a anima
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x30a4d34	fps	ximo {maxFPS} fps. Corrija a anima
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x30de4d1	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x30de4f4	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x30f897c	Heartbeat	Erro interno. Entre novamente.:Feature.Screentime.Description.HeartbeatConsecutiveFailure6Isto estende temporariamente o limite de tempo de tela8Featur
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3153ba9	FPS	 (FPS)"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3153bcd	FPS	 (FPS)"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3164935	Heartbeat	.:Feature.Screentime.Description.HeartbeatConsecutiveFailurej
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x31a0d55	FPS	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x31a0d5a	fps	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x31fb5c2	FPS	"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3225bbe	Heartbeat	:Feature.Screentime.Description.HeartbeatConsecutiveFailure
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3269f71	FPS	CurveAnimation, maksimum {maxFPS} fps'lik animasyon i
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3269f76	fps	CurveAnimation, maksimum {maxFPS} fps'lik animasyon i
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x32a3dd5	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x32a3df8	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x32be977	Heartbeat	 dene.:Feature.Screentime.Description.HeartbeatConsecutiveFailure9Ekran s
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x32fd305	FPS	a {maxFPS} fps. Vui l
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x32fd30a	fps	a {maxFPS} fps. Vui l
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x333d7bd	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x333d7e0	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x335b914	Heartbeat	i.:Feature.Screentime.Description.HeartbeatConsecutiveFailureAThao t
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3397660	FPS	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3397665	fps	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x33cbf88	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x33cbfab	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x33e439e	Heartbeat	:Feature.Screentime.Description.HeartbeatConsecutiveFailure$
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x341e59c	FPS	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x341e5a1	fps	 {maxFPS} fps 
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3452c69	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x3452c8c	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x346aecc	Heartbeat	:Feature.Screentime.Description.HeartbeatConsecutiveFailure$
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x34a490d	FPS	 {maxFPS}
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x34d8b53	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x34d8b76	FPS	FPS"Feature.GameDetails.Label.GenreFPS
+UniversalApp.rbxm	ModuleScript	Source	type=0x1d	off=0x34f0cc6	Heartbeat	:Feature.Screentime.Description.HeartbeatConsecutiveFailure0
+Maquettes.rbxl	ParticleEmitter	FlipbookFramerate	type=0x17	property-name-match
+Mobile.rbxl	ParticleEmitter	FlipbookFramerate	type=0x17	property-name-match
