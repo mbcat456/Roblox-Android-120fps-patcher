@@ -23,8 +23,6 @@ Version `2.741.1061`, versionCode `3212`.
 
 - `release/Roblox_2.741.1061_120fps_mod.apkm` - APKMirror Installer bundle
 - `release/Roblox_2.741.1061_120fps_mod.apks` - SAI bundle
-- `release/RobloxApkmInstaller.apk` - small loader that installs the bundle
-- `release/Roblox_2.741.1061_120fps_arm64.apk` - single arm64 install
 - `release/Roblox_2.741.1061_120fps_universal.apk` - single universal install
 - `release/split_config.*.apk` - raw split pieces for advanced manual installs
 
@@ -33,28 +31,9 @@ Release attachment rather than the Git repository.
 
 ## Install on the phone
 
-1. Install `RobloxApkmInstaller.apk`.
-2. Allow "install unknown apps" for the installer.
-3. Download the `.apkm` or `.apks` bundle.
-4. Open the bundle from the installer and accept the Android install prompt.
-
-Alternatively, install `APKMirror Installer` or `SAI` and open the bundle
-with one of them.
-
-The single APKs are normal APK files that can be downloaded and installed
-directly through the Android package installer without a bundle loader.
-
-## Build the installer APK
-
-Prerequisites: Android SDK build-tools 36, JDK 17 or newer, and the project
-signing key.
-
-```powershell
-.\installer\build_manual.ps1
-```
-
-The script uses `aapt2`, `javac`, `d8`, `zipalign`, and `apksigner` directly,
-so it does not depend on a Gradle daemon or an online dependency cache.
+Install the universal APK directly, or use `APKMirror Installer` / `SAI` to
+open the `.apkm` / `.apks` bundle. The raw `split_config.*.apk` files are only
+needed for advanced split installation.
 
 ## Patch a new Roblox version
 

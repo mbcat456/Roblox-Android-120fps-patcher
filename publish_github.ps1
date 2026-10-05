@@ -24,8 +24,6 @@ gh repo create "$Owner/$Repo" --public --source . --push
 $assets = @(
     "release\Roblox_2.741.1061_120fps_mod.apkm",
     "release\Roblox_2.741.1061_120fps_mod.apks",
-    "release\RobloxApkmInstaller.apk",
-    "release\Roblox_2.741.1061_120fps_arm64.apk",
     "release\Roblox_2.741.1061_120fps_universal.apk",
     "release\split_config.arm64_v8a.apk",
     "release\split_config.armeabi_v7a.apk",
