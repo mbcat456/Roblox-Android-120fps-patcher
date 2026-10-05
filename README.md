@@ -26,7 +26,7 @@ Version `2.741.1061`, versionCode `3212`.
 - `release/RobloxApkmInstaller.apk` - small loader that installs the bundle
 - `release/Roblox_2.741.1061_120fps_arm64.apk` - single arm64 install
 - `release/Roblox_2.741.1061_120fps_universal.apk` - single universal install
-- `release/base_mod_signed.apk` and `release/split_config.*.apk` - raw pieces
+- `release/split_config.*.apk` - raw split pieces for advanced manual installs
 
 The `.apkm` and `.apks` files are large and are intended for the GitHub
 Release attachment rather than the Git repository.

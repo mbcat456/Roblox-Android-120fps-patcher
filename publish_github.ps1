@@ -27,7 +27,6 @@ $assets = @(
     "release\RobloxApkmInstaller.apk",
     "release\Roblox_2.741.1061_120fps_arm64.apk",
     "release\Roblox_2.741.1061_120fps_universal.apk",
-    "release\base_mod_signed.apk",
     "release\split_config.arm64_v8a.apk",
     "release\split_config.armeabi_v7a.apk",
     "release\split_config.x86_64.apk"
