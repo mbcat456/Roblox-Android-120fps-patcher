@@ -8,6 +8,7 @@ patcher/__pycache__/
 patcher/_work/
 patcher/test_stock_arm64.so
 patcher/test_stock_classes2.dex
+__pycache__/
 test_output/
 release/*.apk
 release/*.apkm
